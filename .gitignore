@@ -1,0 +1,9 @@
+.idea/
+notebook/
+*.pyc
+__pypcache__
+DJ
+db.sqlite3
+.DS_Store
+.zip
+.pdf
