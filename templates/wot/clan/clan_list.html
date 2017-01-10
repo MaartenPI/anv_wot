@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Player List</h1>
+    <ul>
+{% for clan in clans %}
+    <li>{{ clan }}</li>
+{% endfor %}
+    </ul>
+{% endblock content %}

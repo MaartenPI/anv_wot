@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Player Detail</h1>
+    {% for field_name, field_value in player_fields %}
+        {% if field_value %}
+            <p>{{ field_name }} - {{ field_value }}</p>
+        {% endif %}
+    {% endfor %}
+
+    <h5>test</h5>
+    {% for field_name, field_value in player_fields %}
+
+            <p>{{ field_name }} - {{ field_value }}</p>
+
+    {% endfor %}
+
+    <h5>data</h5>
+    {% for idx, data in player_data %}
+        <p>{{ idx }}</p>
+        <ul>
+            {% for record_name, record_value in data %}
+                <li>{{ record_name }} - {{ record_value }}</li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+
+{% endblock content %}

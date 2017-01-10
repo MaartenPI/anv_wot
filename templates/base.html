@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WoT Stats - oglop</title>
+    <link rel="shortcut icon" type="image/png" href="http://anv-clan.eu/favicon.ico"/>
+</head>
+<body>
+    <h3>Base.html</h3>
+    <div id="links">
+
+        <table id="table_links">
+            <tr id="table_header">
+                <th>Clan</th>
+                <th>Player</th>
+            </tr>
+            <tr>
+                <td><a href="{% url 'wot:clans' %}">All Clans</a></td>
+                <td><a href="{% url 'wot:players' %}">All Players</a></td>
+            </tr>
+        </table>
+
+    </div>
+    <div id="content">
+        {% block content %}
+
+        {% endblock content %}
+    </div>
+</body>
+</html>

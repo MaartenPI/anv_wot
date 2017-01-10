@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>{{ clan.tag }} - {{ clan.name }}</h1>
+    <ul>
+{% for member in members %}
+        <li><a href="{% url 'wot:player_detail'  member.account_name %}">
+        {{ member }}
+        </a> - {{ member.data }}
+    </li>
+{% endfor %}
+    </ul>
+{% endblock content %}

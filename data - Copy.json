@@ -1,0 +1,4486 @@
+{
+  "500004323": {
+    "members": {
+      "500012979": {
+        "account_id": "500012979",
+        "account_name": "edt_eSuba",
+        "joined_clan_date": 1415990768,
+        "last_battle_time": 1483682632,
+        "role": "Commander",
+        "statistics": {
+          "all": {
+            "battles": 70507
+          },
+          "random": {
+            "battles": 67313
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2219
+          },
+          "total_resources_earned": 32502,
+          "week_resources_earned": 0
+        }
+      },
+      "500169446": {
+        "account_id": "500169446",
+        "account_name": "CL_Weis",
+        "joined_clan_date": 1477566930,
+        "last_battle_time": 1483649987,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 15693
+          },
+          "random": {
+            "battles": 15575
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 272
+          },
+          "total_resources_earned": 3367,
+          "week_resources_earned": 393
+        }
+      },
+      "500178167": {
+        "account_id": "500178167",
+        "account_name": "DodoBoxxx",
+        "joined_clan_date": 1446709693,
+        "last_battle_time": 1483656266,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 21009
+          },
+          "random": {
+            "battles": 21004
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 6464
+          },
+          "total_resources_earned": 70209,
+          "week_resources_earned": 645
+        }
+      },
+      "500326164": {
+        "account_id": "500326164",
+        "account_name": "SAX_CZ",
+        "joined_clan_date": 1435038302,
+        "last_battle_time": 1483785749,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 45575
+          },
+          "random": {
+            "battles": 43507
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1390
+          },
+          "total_resources_earned": 15170,
+          "week_resources_earned": 0
+        }
+      },
+      "500326378": {
+        "account_id": "500326378",
+        "account_name": "ttomasek_eSuba",
+        "joined_clan_date": 1467667760,
+        "last_battle_time": 1483383782,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 30754
+          },
+          "random": {
+            "battles": 29478
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 94
+          },
+          "total_resources_earned": 1355,
+          "week_resources_earned": 0
+        }
+      },
+      "500357180": {
+        "account_id": "500357180",
+        "account_name": "Vitkov",
+        "joined_clan_date": 1363371272,
+        "last_battle_time": 1483743553,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 24246
+          },
+          "random": {
+            "battles": 22139
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 8590
+          },
+          "total_resources_earned": 122057,
+          "week_resources_earned": 1303
+        }
+      },
+      "500415344": {
+        "account_id": "500415344",
+        "account_name": "Tazy16",
+        "joined_clan_date": 1415094534,
+        "last_battle_time": 1483471836,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 24006
+          },
+          "random": {
+            "battles": 23927
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1998
+          },
+          "total_resources_earned": 22262,
+          "week_resources_earned": 87
+        }
+      },
+      "500650118": {
+        "account_id": "500650118",
+        "account_name": "Honzzaa",
+        "joined_clan_date": 1463245089,
+        "last_battle_time": 1483786105,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 20622
+          },
+          "random": {
+            "battles": 20509
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 4372
+          },
+          "total_resources_earned": 56092,
+          "week_resources_earned": 1605
+        }
+      },
+      "501141042": {
+        "account_id": "501141042",
+        "account_name": "Hornster",
+        "joined_clan_date": 1435010263,
+        "last_battle_time": 1483730948,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 35458
+          },
+          "random": {
+            "battles": 34670
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1134
+          },
+          "total_resources_earned": 13599,
+          "week_resources_earned": 0
+        }
+      },
+      "501380198": {
+        "account_id": "501380198",
+        "account_name": "jawohl_",
+        "joined_clan_date": 1482352353,
+        "last_battle_time": 1483802553,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 32152
+          },
+          "random": {
+            "battles": 30656
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 103
+          },
+          "total_resources_earned": 1017,
+          "week_resources_earned": 0
+        }
+      },
+      "501435906": {
+        "account_id": "501435906",
+        "account_name": "NoSmallCZ",
+        "joined_clan_date": 1447589992,
+        "last_battle_time": 1483752167,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 32344
+          },
+          "random": {
+            "battles": 30704
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1359
+          },
+          "total_resources_earned": 17158,
+          "week_resources_earned": 106
+        }
+      },
+      "501750265": {
+        "account_id": "501750265",
+        "account_name": "Ghost_svk_",
+        "joined_clan_date": 1457711490,
+        "last_battle_time": 1483788390,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 33711
+          },
+          "random": {
+            "battles": 33673
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1058
+          },
+          "total_resources_earned": 11440,
+          "week_resources_earned": 0
+        }
+      },
+      "502021925": {
+        "account_id": "502021925",
+        "account_name": "Morcatko",
+        "joined_clan_date": 1363373474,
+        "last_battle_time": 1483722209,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 32447
+          },
+          "random": {
+            "battles": 30992
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2161
+          },
+          "total_resources_earned": 27854,
+          "week_resources_earned": 0
+        }
+      },
+      "502035855": {
+        "account_id": "502035855",
+        "account_name": "Mikhail800",
+        "joined_clan_date": 1427572608,
+        "last_battle_time": 1483795740,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 37269
+          },
+          "random": {
+            "battles": 36644
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1016
+          },
+          "total_resources_earned": 13238,
+          "week_resources_earned": 0
+        }
+      },
+      "502080152": {
+        "account_id": "502080152",
+        "account_name": "Ballero",
+        "joined_clan_date": 1375992275,
+        "last_battle_time": 1483738110,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 30260
+          },
+          "random": {
+            "battles": 28797
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2553
+          },
+          "total_resources_earned": 35153,
+          "week_resources_earned": 63
+        }
+      },
+      "502171515": {
+        "account_id": "502171515",
+        "account_name": "Schorai",
+        "joined_clan_date": 1416254625,
+        "last_battle_time": 1483009374,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 21574
+          },
+          "random": {
+            "battles": 21309
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 3936
+          },
+          "total_resources_earned": 48032,
+          "week_resources_earned": 0
+        }
+      },
+      "502329694": {
+        "account_id": "502329694",
+        "account_name": "Dalin75",
+        "joined_clan_date": 1363374253,
+        "last_battle_time": 1483738412,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 41138
+          },
+          "random": {
+            "battles": 39119
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 3692
+          },
+          "total_resources_earned": 49709,
+          "week_resources_earned": 122
+        }
+      },
+      "502568831": {
+        "account_id": "502568831",
+        "account_name": "martin_kri",
+        "joined_clan_date": 1399837795,
+        "last_battle_time": 1483654716,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 19321
+          },
+          "random": {
+            "battles": 19021
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 4139
+          },
+          "total_resources_earned": 52975,
+          "week_resources_earned": 631
+        }
+      },
+      "502714869": {
+        "account_id": "502714869",
+        "account_name": "gipes",
+        "joined_clan_date": 1453410728,
+        "last_battle_time": 1483722219,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 19035
+          },
+          "random": {
+            "battles": 19035
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1606
+          },
+          "total_resources_earned": 20538,
+          "week_resources_earned": 267
+        }
+      },
+      "502956086": {
+        "account_id": "502956086",
+        "account_name": "Paja8",
+        "joined_clan_date": 1477416005,
+        "last_battle_time": 1482487449,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 20365
+          },
+          "random": {
+            "battles": 19917
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 117
+          },
+          "total_resources_earned": 1358,
+          "week_resources_earned": 0
+        }
+      },
+      "503461910": {
+        "account_id": "503461910",
+        "account_name": "Bjartskular1",
+        "joined_clan_date": 1435224681,
+        "last_battle_time": 1483043288,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 19212
+          },
+          "random": {
+            "battles": 18736
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2815
+          },
+          "total_resources_earned": 32054,
+          "week_resources_earned": 0
+        }
+      },
+      "503836824": {
+        "account_id": "503836824",
+        "account_name": "__Taz_",
+        "joined_clan_date": 1472056574,
+        "last_battle_time": 1483802108,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 45645
+          },
+          "random": {
+            "battles": 44515
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 241
+          },
+          "total_resources_earned": 2793,
+          "week_resources_earned": 0
+        }
+      },
+      "504032989": {
+        "account_id": "504032989",
+        "account_name": "Salamander_cz",
+        "joined_clan_date": 1482873412,
+        "last_battle_time": 1483786392,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 42465
+          },
+          "random": {
+            "battles": 41758
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 28
+          },
+          "total_resources_earned": 453,
+          "week_resources_earned": 453
+        }
+      },
+      "504167647": {
+        "account_id": "504167647",
+        "account_name": "petercompact",
+        "joined_clan_date": 1469205913,
+        "last_battle_time": 1483795240,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 44048
+          },
+          "random": {
+            "battles": 43736
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 519
+          },
+          "total_resources_earned": 6018,
+          "week_resources_earned": 0
+        }
+      },
+      "504180429": {
+        "account_id": "504180429",
+        "account_name": "Wisborg",
+        "joined_clan_date": 1382598843,
+        "last_battle_time": 1483715149,
+        "role": "Personnel Officer",
+        "statistics": {
+          "all": {
+            "battles": 16452
+          },
+          "random": {
+            "battles": 16112
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2562
+          },
+          "total_resources_earned": 31816,
+          "week_resources_earned": 233
+        }
+      },
+      "504302585": {
+        "account_id": "504302585",
+        "account_name": "PavlesTheCamper",
+        "joined_clan_date": 1454247777,
+        "last_battle_time": 1483743553,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 24606
+          },
+          "random": {
+            "battles": 23894
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1669
+          },
+          "total_resources_earned": 25793,
+          "week_resources_earned": 992
+        }
+      },
+      "504375282": {
+        "account_id": "504375282",
+        "account_name": "Zagi23",
+        "joined_clan_date": 1477838167,
+        "last_battle_time": 1483802699,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 39544
+          },
+          "random": {
+            "battles": 36015
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 232
+          },
+          "total_resources_earned": 2730,
+          "week_resources_earned": 179
+        }
+      },
+      "504521992": {
+        "account_id": "504521992",
+        "account_name": "kurcatovium",
+        "joined_clan_date": 1414869724,
+        "last_battle_time": 1483738412,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 33402
+          },
+          "random": {
+            "battles": 32926
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2662
+          },
+          "total_resources_earned": 33621,
+          "week_resources_earned": 579
+        }
+      },
+      "504554694": {
+        "account_id": "504554694",
+        "account_name": "DreadIron",
+        "joined_clan_date": 1465584956,
+        "last_battle_time": 1480636771,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 18510
+          },
+          "random": {
+            "battles": 18172
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 485
+          },
+          "total_resources_earned": 6022,
+          "week_resources_earned": 0
+        }
+      },
+      "504560023": {
+        "account_id": "504560023",
+        "account_name": "v4SIL",
+        "joined_clan_date": 1379966760,
+        "last_battle_time": 1480277341,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 10665
+          },
+          "random": {
+            "battles": 10021
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2481
+          },
+          "total_resources_earned": 28496,
+          "week_resources_earned": 0
+        }
+      },
+      "504762082": {
+        "account_id": "504762082",
+        "account_name": "Andrey_P",
+        "joined_clan_date": 1459360441,
+        "last_battle_time": 1483709024,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 26088
+          },
+          "random": {
+            "battles": 24708
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2037
+          },
+          "total_resources_earned": 24300,
+          "week_resources_earned": 273
+        }
+      },
+      "504781279": {
+        "account_id": "504781279",
+        "account_name": "Mysak_plysak",
+        "joined_clan_date": 1366204757,
+        "last_battle_time": 1481578774,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 43571
+          },
+          "random": {
+            "battles": 40877
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2545
+          },
+          "total_resources_earned": 35178,
+          "week_resources_earned": 0
+        }
+      },
+      "504916105": {
+        "account_id": "504916105",
+        "account_name": "Dawson15cz",
+        "joined_clan_date": 1466946712,
+        "last_battle_time": 1483741577,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 27384
+          },
+          "random": {
+            "battles": 26974
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1033
+          },
+          "total_resources_earned": 13601,
+          "week_resources_earned": 47
+        }
+      },
+      "505132720": {
+        "account_id": "505132720",
+        "account_name": "KoljaSOG4",
+        "joined_clan_date": 1368130203,
+        "last_battle_time": 1483743553,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 34838
+          },
+          "random": {
+            "battles": 33697
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 11384
+          },
+          "total_resources_earned": 146817,
+          "week_resources_earned": 1389
+        }
+      },
+      "505141259": {
+        "account_id": "505141259",
+        "account_name": "Humpy83",
+        "joined_clan_date": 1364255262,
+        "last_battle_time": 1483730260,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 11711
+          },
+          "random": {
+            "battles": 11206
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 3967
+          },
+          "total_resources_earned": 40136,
+          "week_resources_earned": 127
+        }
+      },
+      "505333297": {
+        "account_id": "505333297",
+        "account_name": "lukinkoo4",
+        "joined_clan_date": 1475166098,
+        "last_battle_time": 1483743253,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 25937
+          },
+          "random": {
+            "battles": 25701
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 599
+          },
+          "total_resources_earned": 7663,
+          "week_resources_earned": 285
+        }
+      },
+      "505502365": {
+        "account_id": "505502365",
+        "account_name": "MayerSKU__FTS",
+        "joined_clan_date": 1422611592,
+        "last_battle_time": 1483647180,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 25047
+          },
+          "random": {
+            "battles": 24591
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2205
+          },
+          "total_resources_earned": 31850,
+          "week_resources_earned": 408
+        }
+      },
+      "505612126": {
+        "account_id": "505612126",
+        "account_name": "TheSaintJohn",
+        "joined_clan_date": 1454356743,
+        "last_battle_time": 1483793620,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 21891
+          },
+          "random": {
+            "battles": 21771
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 700
+          },
+          "total_resources_earned": 8672,
+          "week_resources_earned": 318
+        }
+      },
+      "505801983": {
+        "account_id": "505801983",
+        "account_name": "Warhamer3311",
+        "joined_clan_date": 1467229184,
+        "last_battle_time": 1483560451,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 21227
+          },
+          "random": {
+            "battles": 20714
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 718
+          },
+          "total_resources_earned": 8309,
+          "week_resources_earned": 0
+        }
+      },
+      "505961530": {
+        "account_id": "505961530",
+        "account_name": "Ahmose1",
+        "joined_clan_date": 1475523147,
+        "last_battle_time": 1483545896,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 14959
+          },
+          "random": {
+            "battles": 13828
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1686
+          },
+          "total_resources_earned": 18457,
+          "week_resources_earned": 976
+        }
+      },
+      "505981986": {
+        "account_id": "505981986",
+        "account_name": "deruiter0__FTS",
+        "joined_clan_date": 1379781292,
+        "last_battle_time": 1483793040,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 14583
+          },
+          "random": {
+            "battles": 11594
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 9451
+          },
+          "total_resources_earned": 118635,
+          "week_resources_earned": 1469
+        }
+      },
+      "505983968": {
+        "account_id": "505983968",
+        "account_name": "kamilos353",
+        "joined_clan_date": 1414782160,
+        "last_battle_time": 1483747627,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 58875
+          },
+          "random": {
+            "battles": 57965
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1745
+          },
+          "total_resources_earned": 20959,
+          "week_resources_earned": 0
+        }
+      },
+      "506443209": {
+        "account_id": "506443209",
+        "account_name": "Hama00",
+        "joined_clan_date": 1480268761,
+        "last_battle_time": 1483223326,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 6740
+          },
+          "random": {
+            "battles": 6723
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 110
+          },
+          "total_resources_earned": 1347,
+          "week_resources_earned": 0
+        }
+      },
+      "506470543": {
+        "account_id": "506470543",
+        "account_name": "LibangCZE",
+        "joined_clan_date": 1417028353,
+        "last_battle_time": 1483572795,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 39218
+          },
+          "random": {
+            "battles": 38583
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1812
+          },
+          "total_resources_earned": 26370,
+          "week_resources_earned": 0
+        }
+      },
+      "506598127": {
+        "account_id": "506598127",
+        "account_name": "HotteCZE",
+        "joined_clan_date": 1437575071,
+        "last_battle_time": 1483751856,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 28479
+          },
+          "random": {
+            "battles": 28313
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1188
+          },
+          "total_resources_earned": 10652,
+          "week_resources_earned": 0
+        }
+      },
+      "506626639": {
+        "account_id": "506626639",
+        "account_name": "Obediah",
+        "joined_clan_date": 1459361004,
+        "last_battle_time": 1483741237,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 29610
+          },
+          "random": {
+            "battles": 29549
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 349
+          },
+          "total_resources_earned": 4183,
+          "week_resources_earned": 0
+        }
+      },
+      "506734168": {
+        "account_id": "506734168",
+        "account_name": "poleno28",
+        "joined_clan_date": 1471546781,
+        "last_battle_time": 1483794119,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 11815
+          },
+          "random": {
+            "battles": 11812
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1876
+          },
+          "total_resources_earned": 23933,
+          "week_resources_earned": 2200
+        }
+      },
+      "506756419": {
+        "account_id": "506756419",
+        "account_name": "shakal70",
+        "joined_clan_date": 1479831093,
+        "last_battle_time": 1483747627,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 36825
+          },
+          "random": {
+            "battles": 36000
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 125
+          },
+          "total_resources_earned": 1240,
+          "week_resources_earned": 108
+        }
+      },
+      "506958539": {
+        "account_id": "506958539",
+        "account_name": "Krystals_WAIT",
+        "joined_clan_date": 1483049582,
+        "last_battle_time": 1483387702,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 33261
+          },
+          "random": {
+            "battles": 31739
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 57
+          },
+          "total_resources_earned": 653,
+          "week_resources_earned": 0
+        }
+      },
+      "507259256": {
+        "account_id": "507259256",
+        "account_name": "MSenko",
+        "joined_clan_date": 1379881778,
+        "last_battle_time": 1483744325,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 24078
+          },
+          "random": {
+            "battles": 23544
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 3158
+          },
+          "total_resources_earned": 37673,
+          "week_resources_earned": 610
+        }
+      },
+      "507302458": {
+        "account_id": "507302458",
+        "account_name": "Thellwinux",
+        "joined_clan_date": 1441489157,
+        "last_battle_time": 1483743553,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 41306
+          },
+          "random": {
+            "battles": 40827
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1416
+          },
+          "total_resources_earned": 19688,
+          "week_resources_earned": 1150
+        }
+      },
+      "507335247": {
+        "account_id": "507335247",
+        "account_name": "Orlisek",
+        "joined_clan_date": 1428604841,
+        "last_battle_time": 1483744268,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 27243
+          },
+          "random": {
+            "battles": 26556
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1660
+          },
+          "total_resources_earned": 18845,
+          "week_resources_earned": 0
+        }
+      },
+      "507356603": {
+        "account_id": "507356603",
+        "account_name": "Philips_CZE",
+        "joined_clan_date": 1479039746,
+        "last_battle_time": 1483745003,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 32196
+          },
+          "random": {
+            "battles": 29281
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1376
+          },
+          "total_resources_earned": 15464,
+          "week_resources_earned": 2358
+        }
+      },
+      "507455714": {
+        "account_id": "507455714",
+        "account_name": "WarriorJoe1__FTS",
+        "joined_clan_date": 1417026883,
+        "last_battle_time": 1483784881,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 17499
+          },
+          "random": {
+            "battles": 16918
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2330
+          },
+          "total_resources_earned": 30095,
+          "week_resources_earned": 1131
+        }
+      },
+      "507457897": {
+        "account_id": "507457897",
+        "account_name": "KiS_Killer",
+        "joined_clan_date": 1476908701,
+        "last_battle_time": 1482524705,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 19157
+          },
+          "random": {
+            "battles": 16874
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 339
+          },
+          "total_resources_earned": 4542,
+          "week_resources_earned": 0
+        }
+      },
+      "507603245": {
+        "account_id": "507603245",
+        "account_name": "RVG_Raze",
+        "joined_clan_date": 1478547856,
+        "last_battle_time": 1483792436,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 18263
+          },
+          "random": {
+            "battles": 18211
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 11
+          },
+          "total_resources_earned": 268,
+          "week_resources_earned": 0
+        }
+      },
+      "507732621": {
+        "account_id": "507732621",
+        "account_name": "Maxguner",
+        "joined_clan_date": 1468703026,
+        "last_battle_time": 1483738208,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 23283
+          },
+          "random": {
+            "battles": 22896
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1136
+          },
+          "total_resources_earned": 12607,
+          "week_resources_earned": 71
+        }
+      },
+      "508447632": {
+        "account_id": "508447632",
+        "account_name": "peklonazemi",
+        "joined_clan_date": 1477219264,
+        "last_battle_time": 1483735071,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 29908
+          },
+          "random": {
+            "battles": 29295
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 209
+          },
+          "total_resources_earned": 2626,
+          "week_resources_earned": 0
+        }
+      },
+      "509106581": {
+        "account_id": "509106581",
+        "account_name": "StockingBanana",
+        "joined_clan_date": 1482514659,
+        "last_battle_time": 1483743553,
+        "role": "Combat Officer",
+        "statistics": {
+          "all": {
+            "battles": 19685
+          },
+          "random": {
+            "battles": 19129
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 140
+          },
+          "total_resources_earned": 1692,
+          "week_resources_earned": 1216
+        }
+      },
+      "509225448": {
+        "account_id": "509225448",
+        "account_name": "DarkSamuraj",
+        "joined_clan_date": 1447271523,
+        "last_battle_time": 1483560050,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 10609
+          },
+          "random": {
+            "battles": 10578
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 3845
+          },
+          "total_resources_earned": 42913,
+          "week_resources_earned": 462
+        }
+      },
+      "509584230": {
+        "account_id": "509584230",
+        "account_name": "hegesak1987",
+        "joined_clan_date": 1458075090,
+        "last_battle_time": 1483739035,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 32604
+          },
+          "random": {
+            "battles": 32296
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 887
+          },
+          "total_resources_earned": 12698,
+          "week_resources_earned": 221
+        }
+      },
+      "509597277": {
+        "account_id": "509597277",
+        "account_name": "vidous",
+        "joined_clan_date": 1451854458,
+        "last_battle_time": 1483795248,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 22489
+          },
+          "random": {
+            "battles": 22449
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 440
+          },
+          "total_resources_earned": 3822,
+          "week_resources_earned": 0
+        }
+      },
+      "509793235": {
+        "account_id": "509793235",
+        "account_name": "cpm_p3tiny",
+        "joined_clan_date": 1443629580,
+        "last_battle_time": 1483743553,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 11428
+          },
+          "random": {
+            "battles": 10921
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 921
+          },
+          "total_resources_earned": 10869,
+          "week_resources_earned": 366
+        }
+      },
+      "509841490": {
+        "account_id": "509841490",
+        "account_name": "spellcrosscze",
+        "joined_clan_date": 1369053793,
+        "last_battle_time": 1483747153,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 62207
+          },
+          "random": {
+            "battles": 60770
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1758
+          },
+          "total_resources_earned": 22426,
+          "week_resources_earned": 156
+        }
+      },
+      "510110879": {
+        "account_id": "510110879",
+        "account_name": "Homer_J_S_",
+        "joined_clan_date": 1414958944,
+        "last_battle_time": 1483770879,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 33689
+          },
+          "random": {
+            "battles": 33624
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1365
+          },
+          "total_resources_earned": 19034,
+          "week_resources_earned": 0
+        }
+      },
+      "510175093": {
+        "account_id": "510175093",
+        "account_name": "XxVeverkaxX",
+        "joined_clan_date": 1468252501,
+        "last_battle_time": 1483744583,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 10588
+          },
+          "random": {
+            "battles": 10588
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 881
+          },
+          "total_resources_earned": 7449,
+          "week_resources_earned": 69
+        }
+      },
+      "511173662": {
+        "account_id": "511173662",
+        "account_name": "DieGotterdammerung",
+        "joined_clan_date": 1415284457,
+        "last_battle_time": 1483469905,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 24396
+          },
+          "random": {
+            "battles": 24284
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 3543
+          },
+          "total_resources_earned": 42705,
+          "week_resources_earned": 236
+        }
+      },
+      "512988370": {
+        "account_id": "512988370",
+        "account_name": "Assari",
+        "joined_clan_date": 1433368449,
+        "last_battle_time": 1483746027,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 22571
+          },
+          "random": {
+            "battles": 22373
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 811
+          },
+          "total_resources_earned": 8431,
+          "week_resources_earned": 0
+        }
+      },
+      "513015600": {
+        "account_id": "513015600",
+        "account_name": "NeoQuaker",
+        "joined_clan_date": 1482348776,
+        "last_battle_time": 1482959092,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 12250
+          },
+          "random": {
+            "battles": 12237
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 59
+          },
+          "total_resources_earned": 466,
+          "week_resources_earned": 0
+        }
+      },
+      "513456431": {
+        "account_id": "513456431",
+        "account_name": "WETAEV",
+        "joined_clan_date": 1482245014,
+        "last_battle_time": 1483735807,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 22360
+          },
+          "random": {
+            "battles": 22324
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 163
+          },
+          "total_resources_earned": 2003,
+          "week_resources_earned": 243
+        }
+      },
+      "513997224": {
+        "account_id": "513997224",
+        "account_name": "Bary_DTG",
+        "joined_clan_date": 1449519792,
+        "last_battle_time": 1483800945,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 14260
+          },
+          "random": {
+            "battles": 13301
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2006
+          },
+          "total_resources_earned": 24031,
+          "week_resources_earned": 135
+        }
+      },
+      "514181284": {
+        "account_id": "514181284",
+        "account_name": "_ACSforever_",
+        "joined_clan_date": 1483098796,
+        "last_battle_time": 1483800723,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 34993
+          },
+          "random": {
+            "battles": 34377
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 72
+          },
+          "total_resources_earned": 1003,
+          "week_resources_earned": 1003
+        }
+      },
+      "514654815": {
+        "account_id": "514654815",
+        "account_name": "romanondracek0",
+        "joined_clan_date": 1459522171,
+        "last_battle_time": 1483741237,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 28582
+          },
+          "random": {
+            "battles": 28493
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1187
+          },
+          "total_resources_earned": 13211,
+          "week_resources_earned": 0
+        }
+      },
+      "516135913": {
+        "account_id": "516135913",
+        "account_name": "zelinkapetr",
+        "joined_clan_date": 1457637937,
+        "last_battle_time": 1483788193,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 16506
+          },
+          "random": {
+            "battles": 16499
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2354
+          },
+          "total_resources_earned": 31482,
+          "week_resources_earned": 662
+        }
+      },
+      "517721061": {
+        "account_id": "517721061",
+        "account_name": "RendyEarl",
+        "joined_clan_date": 1483304101,
+        "last_battle_time": 1483754601,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 19940
+          },
+          "random": {
+            "battles": 19927
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 71
+          },
+          "total_resources_earned": 991,
+          "week_resources_earned": 991
+        }
+      },
+      "518365387": {
+        "account_id": "518365387",
+        "account_name": "2ndacc",
+        "joined_clan_date": 1401049265,
+        "last_battle_time": 1483722219,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 12472
+          },
+          "random": {
+            "battles": 12358
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 4968
+          },
+          "total_resources_earned": 65931,
+          "week_resources_earned": 0
+        }
+      },
+      "518488340": {
+        "account_id": "518488340",
+        "account_name": "_Amon_Amarth_",
+        "joined_clan_date": 1478442085,
+        "last_battle_time": 1483726726,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 20374
+          },
+          "random": {
+            "battles": 20358
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 229
+          },
+          "total_resources_earned": 2647,
+          "week_resources_earned": 221
+        }
+      },
+      "519375275": {
+        "account_id": "519375275",
+        "account_name": "aiznem1",
+        "joined_clan_date": 1459356339,
+        "last_battle_time": 1483752764,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 31884
+          },
+          "random": {
+            "battles": 31798
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 724
+          },
+          "total_resources_earned": 8442,
+          "week_resources_earned": 373
+        }
+      },
+      "520638422": {
+        "account_id": "520638422",
+        "account_name": "Audi_A2",
+        "joined_clan_date": 1468590723,
+        "last_battle_time": 1483794243,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 19368
+          },
+          "random": {
+            "battles": 19310
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1058
+          },
+          "total_resources_earned": 13974,
+          "week_resources_earned": 1122
+        }
+      },
+      "521006098": {
+        "account_id": "521006098",
+        "account_name": "Nalfar",
+        "joined_clan_date": 1458677469,
+        "last_battle_time": 1483743553,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 11601
+          },
+          "random": {
+            "battles": 11590
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2483
+          },
+          "total_resources_earned": 32670,
+          "week_resources_earned": 850
+        }
+      },
+      "522043139": {
+        "account_id": "522043139",
+        "account_name": "Griesle",
+        "joined_clan_date": 1465597706,
+        "last_battle_time": 1482343976,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 22115
+          },
+          "random": {
+            "battles": 22111
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 672
+          },
+          "total_resources_earned": 7000,
+          "week_resources_earned": 0
+        }
+      },
+      "522527402": {
+        "account_id": "522527402",
+        "account_name": "BananakCZ",
+        "joined_clan_date": 1462455100,
+        "last_battle_time": 1483649064,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 11310
+          },
+          "random": {
+            "battles": 11294
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 983
+          },
+          "total_resources_earned": 12904,
+          "week_resources_earned": 137
+        }
+      },
+      "522611446": {
+        "account_id": "522611446",
+        "account_name": "NutGamerPLS",
+        "joined_clan_date": 1471552157,
+        "last_battle_time": 1483797907,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 15198
+          },
+          "random": {
+            "battles": 15198
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 247
+          },
+          "total_resources_earned": 3073,
+          "week_resources_earned": 222
+        }
+      },
+      "525821673": {
+        "account_id": "525821673",
+        "account_name": "Kiposh",
+        "joined_clan_date": 1469466556,
+        "last_battle_time": 1483799264,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 31084
+          },
+          "random": {
+            "battles": 30949
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2436
+          },
+          "total_resources_earned": 24819,
+          "week_resources_earned": 2081
+        }
+      },
+      "532401249": {
+        "account_id": "532401249",
+        "account_name": "Corle0ne_",
+        "joined_clan_date": 1483201299,
+        "last_battle_time": 1483755917,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 8789
+          },
+          "random": {
+            "battles": 8789
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 46
+          },
+          "total_resources_earned": 605,
+          "week_resources_earned": 592
+        }
+      }
+    },
+    "name": "Acta non Verba",
+    "tag": "ANV"
+  },
+  "500054759": {
+    "members": {
+      "500219753": {
+        "account_id": "500219753",
+        "account_name": "FuZero",
+        "joined_clan_date": 1477825051,
+        "last_battle_time": 1483647564,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 17945
+          },
+          "random": {
+            "battles": 17550
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 269
+          },
+          "total_resources_earned": 2562,
+          "week_resources_earned": 137
+        }
+      },
+      "500282145": {
+        "account_id": "500282145",
+        "account_name": "Plusminu",
+        "joined_clan_date": 1450715481,
+        "last_battle_time": 1483218161,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 29785
+          },
+          "random": {
+            "battles": 29605
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1000
+          },
+          "total_resources_earned": 9337,
+          "week_resources_earned": 0
+        }
+      },
+      "500376647": {
+        "account_id": "500376647",
+        "account_name": "_Chaotik_CZ",
+        "joined_clan_date": 1481994504,
+        "last_battle_time": 1483732539,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 29701
+          },
+          "random": {
+            "battles": 29701
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 464
+          },
+          "total_resources_earned": 3878,
+          "week_resources_earned": 989
+        }
+      },
+      "500385659": {
+        "account_id": "500385659",
+        "account_name": "kilda34",
+        "joined_clan_date": 1477993731,
+        "last_battle_time": 1483789111,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 19829
+          },
+          "random": {
+            "battles": 19521
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 103
+          },
+          "total_resources_earned": 963,
+          "week_resources_earned": 0
+        }
+      },
+      "500421749": {
+        "account_id": "500421749",
+        "account_name": "guco30",
+        "joined_clan_date": 1479047313,
+        "last_battle_time": 1483790040,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 34191
+          },
+          "random": {
+            "battles": 33447
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 118
+          },
+          "total_resources_earned": 1186,
+          "week_resources_earned": 0
+        }
+      },
+      "500623126": {
+        "account_id": "500623126",
+        "account_name": "Lukas6CZ",
+        "joined_clan_date": 1450205145,
+        "last_battle_time": 1483752167,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 13115
+          },
+          "random": {
+            "battles": 12859
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 611
+          },
+          "total_resources_earned": 6273,
+          "week_resources_earned": 0
+        }
+      },
+      "500690356": {
+        "account_id": "500690356",
+        "account_name": "pekoslav",
+        "joined_clan_date": 1446494128,
+        "last_battle_time": 1483653140,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 23965
+          },
+          "random": {
+            "battles": 22847
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1894
+          },
+          "total_resources_earned": 20169,
+          "week_resources_earned": 293
+        }
+      },
+      "500955550": {
+        "account_id": "500955550",
+        "account_name": "Hakanan",
+        "joined_clan_date": 1482693822,
+        "last_battle_time": 1483798896,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 31606
+          },
+          "random": {
+            "battles": 31606
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 56
+          },
+          "total_resources_earned": 451,
+          "week_resources_earned": 0
+        }
+      },
+      "501196256": {
+        "account_id": "501196256",
+        "account_name": "FTS__JustSt0ck",
+        "joined_clan_date": 1468683616,
+        "last_battle_time": 1473720277,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 15589
+          },
+          "random": {
+            "battles": 13215
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 3
+          },
+          "total_resources_earned": 20,
+          "week_resources_earned": 0
+        }
+      },
+      "502014569": {
+        "account_id": "502014569",
+        "account_name": "plkAkru",
+        "joined_clan_date": 1482064108,
+        "last_battle_time": 1483725184,
+        "role": "Combat Officer",
+        "statistics": {
+          "all": {
+            "battles": 20389
+          },
+          "random": {
+            "battles": 20330
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 202
+          },
+          "total_resources_earned": 1804,
+          "week_resources_earned": 57
+        }
+      },
+      "502129813": {
+        "account_id": "502129813",
+        "account_name": "RadimWorld",
+        "joined_clan_date": 1462546993,
+        "last_battle_time": 1483004380,
+        "role": "Reservist",
+        "statistics": {
+          "all": {
+            "battles": 32566
+          },
+          "random": {
+            "battles": 31820
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 53
+          },
+          "total_resources_earned": 535,
+          "week_resources_earned": 0
+        }
+      },
+      "502276641": {
+        "account_id": "502276641",
+        "account_name": "RagSalt",
+        "joined_clan_date": 1445961791,
+        "last_battle_time": 1483783764,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 18368
+          },
+          "random": {
+            "battles": 17725
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 403
+          },
+          "total_resources_earned": 2899,
+          "week_resources_earned": 94
+        }
+      },
+      "502424602": {
+        "account_id": "502424602",
+        "account_name": "czValkyra",
+        "joined_clan_date": 1447092664,
+        "last_battle_time": 1483734562,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 30325
+          },
+          "random": {
+            "battles": 29966
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 232
+          },
+          "total_resources_earned": 2039,
+          "week_resources_earned": 0
+        }
+      },
+      "502549431": {
+        "account_id": "502549431",
+        "account_name": "sleeper13",
+        "joined_clan_date": 1483296463,
+        "last_battle_time": 1483732158,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 23298
+          },
+          "random": {
+            "battles": 23248
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 7
+          },
+          "total_resources_earned": 67,
+          "week_resources_earned": 67
+        }
+      },
+      "502586467": {
+        "account_id": "502586467",
+        "account_name": "Rushfr3ak",
+        "joined_clan_date": 1482009855,
+        "last_battle_time": 1483727663,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 16992
+          },
+          "random": {
+            "battles": 16301
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 74
+          },
+          "total_resources_earned": 540,
+          "week_resources_earned": 290
+        }
+      },
+      "502622284": {
+        "account_id": "502622284",
+        "account_name": "hrusja",
+        "joined_clan_date": 1477588778,
+        "last_battle_time": 1483718041,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 19946
+          },
+          "random": {
+            "battles": 18972
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 42
+          },
+          "total_resources_earned": 397,
+          "week_resources_earned": 0
+        }
+      },
+      "502658063": {
+        "account_id": "502658063",
+        "account_name": "fantofas",
+        "joined_clan_date": 1482068899,
+        "last_battle_time": 1483654033,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 13062
+          },
+          "random": {
+            "battles": 13003
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 152
+          },
+          "total_resources_earned": 1245,
+          "week_resources_earned": 373
+        }
+      },
+      "502675146": {
+        "account_id": "502675146",
+        "account_name": "Jara47M",
+        "joined_clan_date": 1446556051,
+        "last_battle_time": 1475718527,
+        "role": "Reservist",
+        "statistics": {
+          "all": {
+            "battles": 19406
+          },
+          "random": {
+            "battles": 18320
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 56
+          },
+          "total_resources_earned": 665,
+          "week_resources_earned": 0
+        }
+      },
+      "502686377": {
+        "account_id": "502686377",
+        "account_name": "Kyslik1938",
+        "joined_clan_date": 1462554778,
+        "last_battle_time": 1483661748,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 13789
+          },
+          "random": {
+            "battles": 13723
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 469
+          },
+          "total_resources_earned": 3848,
+          "week_resources_earned": 271
+        }
+      },
+      "502731170": {
+        "account_id": "502731170",
+        "account_name": "nolf13",
+        "joined_clan_date": 1452723268,
+        "last_battle_time": 1483800578,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 41732
+          },
+          "random": {
+            "battles": 41728
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 208
+          },
+          "total_resources_earned": 1653,
+          "week_resources_earned": 65
+        }
+      },
+      "504015000": {
+        "account_id": "504015000",
+        "account_name": "Kratdan",
+        "joined_clan_date": 1466101514,
+        "last_battle_time": 1483530525,
+        "role": "Combat Officer",
+        "statistics": {
+          "all": {
+            "battles": 7160
+          },
+          "random": {
+            "battles": 7160
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 29
+          },
+          "total_resources_earned": 254,
+          "week_resources_earned": 0
+        }
+      },
+      "504105100": {
+        "account_id": "504105100",
+        "account_name": "xLoCo99x",
+        "joined_clan_date": 1482068893,
+        "last_battle_time": 1483732549,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 12570
+          },
+          "random": {
+            "battles": 12570
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 109
+          },
+          "total_resources_earned": 1084,
+          "week_resources_earned": 927
+        }
+      },
+      "504149522": {
+        "account_id": "504149522",
+        "account_name": "KoraiMesik",
+        "joined_clan_date": 1461000242,
+        "last_battle_time": 1482924627,
+        "role": "Reservist",
+        "statistics": {
+          "all": {
+            "battles": 17296
+          },
+          "random": {
+            "battles": 17203
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 175
+          },
+          "total_resources_earned": 1556,
+          "week_resources_earned": 0
+        }
+      },
+      "504219058": {
+        "account_id": "504219058",
+        "account_name": "KarelPaty",
+        "joined_clan_date": 1482068907,
+        "last_battle_time": 1483776339,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 27138
+          },
+          "random": {
+            "battles": 27019
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 66
+          },
+          "total_resources_earned": 418,
+          "week_resources_earned": 84
+        }
+      },
+      "504235617": {
+        "account_id": "504235617",
+        "account_name": "PumcaCZE",
+        "joined_clan_date": 1464557412,
+        "last_battle_time": 1482079308,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 22392
+          },
+          "random": {
+            "battles": 22091
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 215
+          },
+          "total_resources_earned": 1879,
+          "week_resources_earned": 0
+        }
+      },
+      "504424900": {
+        "account_id": "504424900",
+        "account_name": "replayboy",
+        "joined_clan_date": 1443987008,
+        "last_battle_time": 1483746522,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 21165
+          },
+          "random": {
+            "battles": 20194
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 279
+          },
+          "total_resources_earned": 2753,
+          "week_resources_earned": 302
+        }
+      },
+      "504535762": {
+        "account_id": "504535762",
+        "account_name": "Aries10",
+        "joined_clan_date": 1471626521,
+        "last_battle_time": 1483801611,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 9317
+          },
+          "random": {
+            "battles": 7004
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 123
+          },
+          "total_resources_earned": 832,
+          "week_resources_earned": 19
+        }
+      },
+      "504814356": {
+        "account_id": "504814356",
+        "account_name": "Flka",
+        "joined_clan_date": 1482049313,
+        "last_battle_time": 1483796772,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 19620
+          },
+          "random": {
+            "battles": 19322
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 130
+          },
+          "total_resources_earned": 898,
+          "week_resources_earned": 195
+        }
+      },
+      "504854726": {
+        "account_id": "504854726",
+        "account_name": "sheriff_cz",
+        "joined_clan_date": 1444196243,
+        "last_battle_time": 1483802264,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 25342
+          },
+          "random": {
+            "battles": 25285
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 414
+          },
+          "total_resources_earned": 3642,
+          "week_resources_earned": 75
+        }
+      },
+      "505143877": {
+        "account_id": "505143877",
+        "account_name": "erik_six",
+        "joined_clan_date": 1458228345,
+        "last_battle_time": 1483714714,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 41952
+          },
+          "random": {
+            "battles": 41523
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 97
+          },
+          "total_resources_earned": 721,
+          "week_resources_earned": 0
+        }
+      },
+      "505238267": {
+        "account_id": "505238267",
+        "account_name": "Eruntano",
+        "joined_clan_date": 1479045482,
+        "last_battle_time": 1483793738,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 22715
+          },
+          "random": {
+            "battles": 22565
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 180
+          },
+          "total_resources_earned": 1609,
+          "week_resources_earned": 362
+        }
+      },
+      "505328978": {
+        "account_id": "505328978",
+        "account_name": "lubkopucek",
+        "joined_clan_date": 1453322977,
+        "last_battle_time": 1483800508,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 40140
+          },
+          "random": {
+            "battles": 38785
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 2687
+          },
+          "total_resources_earned": 24641,
+          "week_resources_earned": 1395
+        }
+      },
+      "505521696": {
+        "account_id": "505521696",
+        "account_name": "AmayPRO",
+        "joined_clan_date": 1482940655,
+        "last_battle_time": 1483788418,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 15898
+          },
+          "random": {
+            "battles": 15875
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 51
+          },
+          "total_resources_earned": 468,
+          "week_resources_earned": 146
+        }
+      },
+      "505609563": {
+        "account_id": "505609563",
+        "account_name": "rogermatyas",
+        "joined_clan_date": 1482223890,
+        "last_battle_time": 1483647628,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 14671
+          },
+          "random": {
+            "battles": 14347
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 93
+          },
+          "total_resources_earned": 585,
+          "week_resources_earned": 0
+        }
+      },
+      "505869791": {
+        "account_id": "505869791",
+        "account_name": "ceki54",
+        "joined_clan_date": 1471367619,
+        "last_battle_time": 1483462445,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 15938
+          },
+          "random": {
+            "battles": 15875
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 78
+          },
+          "total_resources_earned": 745,
+          "week_resources_earned": 0
+        }
+      },
+      "505978360": {
+        "account_id": "505978360",
+        "account_name": "nepo14",
+        "joined_clan_date": 1459800114,
+        "last_battle_time": 1483380309,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 9730
+          },
+          "random": {
+            "battles": 9727
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 758
+          },
+          "total_resources_earned": 6483,
+          "week_resources_earned": 35
+        }
+      },
+      "505993349": {
+        "account_id": "505993349",
+        "account_name": "tomas760",
+        "joined_clan_date": 1482070747,
+        "last_battle_time": 1483796405,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 26221
+          },
+          "random": {
+            "battles": 26195
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 62
+          },
+          "total_resources_earned": 547,
+          "week_resources_earned": 118
+        }
+      },
+      "506073266": {
+        "account_id": "506073266",
+        "account_name": "Lukyn17",
+        "joined_clan_date": 1469476904,
+        "last_battle_time": 1483471902,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 12772
+          },
+          "random": {
+            "battles": 12715
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 259
+          },
+          "total_resources_earned": 2322,
+          "week_resources_earned": 127
+        }
+      },
+      "506198491": {
+        "account_id": "506198491",
+        "account_name": "Mosssad",
+        "joined_clan_date": 1482009856,
+        "last_battle_time": 1483624089,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 50010
+          },
+          "random": {
+            "battles": 48536
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 72
+          },
+          "total_resources_earned": 643,
+          "week_resources_earned": 0
+        }
+      },
+      "506416850": {
+        "account_id": "506416850",
+        "account_name": "Feldwebel_Bajer",
+        "joined_clan_date": 1470995168,
+        "last_battle_time": 1483792601,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 18140
+          },
+          "random": {
+            "battles": 17959
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 608
+          },
+          "total_resources_earned": 5959,
+          "week_resources_earned": 497
+        }
+      },
+      "506646980": {
+        "account_id": "506646980",
+        "account_name": "LukkyCzech",
+        "joined_clan_date": 1461180341,
+        "last_battle_time": 1483690373,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 21033
+          },
+          "random": {
+            "battles": 21022
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 327
+          },
+          "total_resources_earned": 3111,
+          "week_resources_earned": 0
+        }
+      },
+      "507233639": {
+        "account_id": "507233639",
+        "account_name": "fontanm",
+        "joined_clan_date": 1467364454,
+        "last_battle_time": 1483746537,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 41490
+          },
+          "random": {
+            "battles": 41169
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 292
+          },
+          "total_resources_earned": 2947,
+          "week_resources_earned": 154
+        }
+      },
+      "507260986": {
+        "account_id": "507260986",
+        "account_name": "rokyc",
+        "joined_clan_date": 1482009855,
+        "last_battle_time": 1483787686,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 27971
+          },
+          "random": {
+            "battles": 27964
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 268
+          },
+          "total_resources_earned": 2262,
+          "week_resources_earned": 814
+        }
+      },
+      "507405721": {
+        "account_id": "507405721",
+        "account_name": "harakiri01",
+        "joined_clan_date": 1463432120,
+        "last_battle_time": 1483794908,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 27956
+          },
+          "random": {
+            "battles": 27798
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 337
+          },
+          "total_resources_earned": 2685,
+          "week_resources_earned": 0
+        }
+      },
+      "507562492": {
+        "account_id": "507562492",
+        "account_name": "SG_semda",
+        "joined_clan_date": 1482073100,
+        "last_battle_time": 1483795957,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 26278
+          },
+          "random": {
+            "battles": 26089
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 38
+          },
+          "total_resources_earned": 266,
+          "week_resources_earned": 0
+        }
+      },
+      "507604159": {
+        "account_id": "507604159",
+        "account_name": "denas944",
+        "joined_clan_date": 1469449661,
+        "last_battle_time": 1483219695,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 29957
+          },
+          "random": {
+            "battles": 29404
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 310
+          },
+          "total_resources_earned": 2429,
+          "week_resources_earned": 0
+        }
+      },
+      "507688321": {
+        "account_id": "507688321",
+        "account_name": "panzermlok",
+        "joined_clan_date": 1482039440,
+        "last_battle_time": 1483786928,
+        "role": "Combat Officer",
+        "statistics": {
+          "all": {
+            "battles": 27445
+          },
+          "random": {
+            "battles": 26627
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 71
+          },
+          "total_resources_earned": 415,
+          "week_resources_earned": 103
+        }
+      },
+      "508036529": {
+        "account_id": "508036529",
+        "account_name": "DJptak",
+        "joined_clan_date": 1481723413,
+        "last_battle_time": 1483715177,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 21330
+          },
+          "random": {
+            "battles": 20616
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 28
+          },
+          "total_resources_earned": 299,
+          "week_resources_earned": 0
+        }
+      },
+      "508274174": {
+        "account_id": "508274174",
+        "account_name": "LuckyTomy",
+        "joined_clan_date": 1450606039,
+        "last_battle_time": 1483392089,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 12397
+          },
+          "random": {
+            "battles": 12391
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1784
+          },
+          "total_resources_earned": 17329,
+          "week_resources_earned": 654
+        }
+      },
+      "508409716": {
+        "account_id": "508409716",
+        "account_name": "MilanVrba",
+        "joined_clan_date": 1462280880,
+        "last_battle_time": 1483772411,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 20602
+          },
+          "random": {
+            "battles": 20478
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 649
+          },
+          "total_resources_earned": 5554,
+          "week_resources_earned": 100
+        }
+      },
+      "508459414": {
+        "account_id": "508459414",
+        "account_name": "Jend4",
+        "joined_clan_date": 1481469035,
+        "last_battle_time": 1483356918,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 11173
+          },
+          "random": {
+            "battles": 10993
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 42
+          },
+          "total_resources_earned": 408,
+          "week_resources_earned": 0
+        }
+      },
+      "508719884": {
+        "account_id": "508719884",
+        "account_name": "Mardy23",
+        "joined_clan_date": 1482049304,
+        "last_battle_time": 1483724830,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 33464
+          },
+          "random": {
+            "battles": 32487
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 443
+          },
+          "total_resources_earned": 4073,
+          "week_resources_earned": 648
+        }
+      },
+      "508799193": {
+        "account_id": "508799193",
+        "account_name": "Pestepidemi",
+        "joined_clan_date": 1451507194,
+        "last_battle_time": 1483797155,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 20165
+          },
+          "random": {
+            "battles": 20124
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 433
+          },
+          "total_resources_earned": 3817,
+          "week_resources_earned": 0
+        }
+      },
+      "508804819": {
+        "account_id": "508804819",
+        "account_name": "bishak",
+        "joined_clan_date": 1467546900,
+        "last_battle_time": 1483741577,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 5441
+          },
+          "random": {
+            "battles": 5323
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 271
+          },
+          "total_resources_earned": 2271,
+          "week_resources_earned": 238
+        }
+      },
+      "509227834": {
+        "account_id": "509227834",
+        "account_name": "Korkein",
+        "joined_clan_date": 1480948395,
+        "last_battle_time": 1483466984,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 12500
+          },
+          "random": {
+            "battles": 10799
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 20
+          },
+          "total_resources_earned": 170,
+          "week_resources_earned": 85
+        }
+      },
+      "509284571": {
+        "account_id": "509284571",
+        "account_name": "Gamond",
+        "joined_clan_date": 1481978918,
+        "last_battle_time": 1483789198,
+        "role": "Reservist",
+        "statistics": {
+          "all": {
+            "battles": 11669
+          },
+          "random": {
+            "battles": 11564
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 179
+          },
+          "total_resources_earned": 1547,
+          "week_resources_earned": 40
+        }
+      },
+      "509298357": {
+        "account_id": "509298357",
+        "account_name": "Tonenifer",
+        "joined_clan_date": 1482070862,
+        "last_battle_time": 1483568124,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 24069
+          },
+          "random": {
+            "battles": 23279
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 359
+          },
+          "total_resources_earned": 2741,
+          "week_resources_earned": 432
+        }
+      },
+      "509427050": {
+        "account_id": "509427050",
+        "account_name": "lukylukas251",
+        "joined_clan_date": 1479122757,
+        "last_battle_time": 1483799504,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 84
+          },
+          "random": {
+            "battles": 84
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 1145,
+          "week_resources_earned": 0
+        }
+      },
+      "509754448": {
+        "account_id": "509754448",
+        "account_name": "CherLoyd",
+        "joined_clan_date": 1478980356,
+        "last_battle_time": 1483745665,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 41708
+          },
+          "random": {
+            "battles": 41601
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 19
+          },
+          "total_resources_earned": 200,
+          "week_resources_earned": 0
+        }
+      },
+      "509833490": {
+        "account_id": "509833490",
+        "account_name": "Don_Tommy_CZ",
+        "joined_clan_date": 1481994542,
+        "last_battle_time": 1483732539,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 22210
+          },
+          "random": {
+            "battles": 22207
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 223
+          },
+          "total_resources_earned": 2608,
+          "week_resources_earned": 802
+        }
+      },
+      "510637267": {
+        "account_id": "510637267",
+        "account_name": "Bratek125",
+        "joined_clan_date": 1461910622,
+        "last_battle_time": 1483709690,
+        "role": "Reservist",
+        "statistics": {
+          "all": {
+            "battles": 11413
+          },
+          "random": {
+            "battles": 11324
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 200
+          },
+          "total_resources_earned": 950,
+          "week_resources_earned": 77
+        }
+      },
+      "510718168": {
+        "account_id": "510718168",
+        "account_name": "medomed",
+        "joined_clan_date": 1477069895,
+        "last_battle_time": 1483388295,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 20615
+          },
+          "random": {
+            "battles": 19573
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 199
+          },
+          "total_resources_earned": 1822,
+          "week_resources_earned": 0
+        }
+      },
+      "511106246": {
+        "account_id": "511106246",
+        "account_name": "senak7",
+        "joined_clan_date": 1479035963,
+        "last_battle_time": 1483733194,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 14520
+          },
+          "random": {
+            "battles": 14255
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 505
+          },
+          "total_resources_earned": 4623,
+          "week_resources_earned": 55
+        }
+      },
+      "511175159": {
+        "account_id": "511175159",
+        "account_name": "Marek_777",
+        "joined_clan_date": 1451837855,
+        "last_battle_time": 1483772734,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 23206
+          },
+          "random": {
+            "battles": 23206
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 542
+          },
+          "total_resources_earned": 4357,
+          "week_resources_earned": 0
+        }
+      },
+      "511199489": {
+        "account_id": "511199489",
+        "account_name": "krutoprisnak25",
+        "joined_clan_date": 1472491725,
+        "last_battle_time": 1483724625,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 5124
+          },
+          "random": {
+            "battles": 5124
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 73
+          },
+          "total_resources_earned": 653,
+          "week_resources_earned": 0
+        }
+      },
+      "511375410": {
+        "account_id": "511375410",
+        "account_name": "Erokros",
+        "joined_clan_date": 1482605706,
+        "last_battle_time": 1483738734,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 26929
+          },
+          "random": {
+            "battles": 26798
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 29
+          },
+          "total_resources_earned": 79,
+          "week_resources_earned": 0
+        }
+      },
+      "511517552": {
+        "account_id": "511517552",
+        "account_name": "Corwin22_CZ",
+        "joined_clan_date": 1446754804,
+        "last_battle_time": 1483696083,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 13064
+          },
+          "random": {
+            "battles": 12914
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 914
+          },
+          "total_resources_earned": 7117,
+          "week_resources_earned": 0
+        }
+      },
+      "511884137": {
+        "account_id": "511884137",
+        "account_name": "JohnyRicoCZE",
+        "joined_clan_date": 1448297942,
+        "last_battle_time": 1483643090,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 13841
+          },
+          "random": {
+            "battles": 13839
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 481
+          },
+          "total_resources_earned": 4396,
+          "week_resources_earned": 297
+        }
+      },
+      "512222164": {
+        "account_id": "512222164",
+        "account_name": "Visen_Hero",
+        "joined_clan_date": 1469392939,
+        "last_battle_time": 1483740012,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 14766
+          },
+          "random": {
+            "battles": 14762
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 804
+          },
+          "total_resources_earned": 7789,
+          "week_resources_earned": 966
+        }
+      },
+      "512247519": {
+        "account_id": "512247519",
+        "account_name": "Spinetail",
+        "joined_clan_date": 1472674238,
+        "last_battle_time": 1483796190,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 18843
+          },
+          "random": {
+            "battles": 18711
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 211
+          },
+          "total_resources_earned": 1815,
+          "week_resources_earned": 0
+        }
+      },
+      "512441413": {
+        "account_id": "512441413",
+        "account_name": "Reta6",
+        "joined_clan_date": 1474917075,
+        "last_battle_time": 1483783344,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 26717
+          },
+          "random": {
+            "battles": 26554
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 165
+          },
+          "total_resources_earned": 1991,
+          "week_resources_earned": 759
+        }
+      },
+      "512519001": {
+        "account_id": "512519001",
+        "account_name": "Kotydz",
+        "joined_clan_date": 1482009857,
+        "last_battle_time": 1483775942,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 17658
+          },
+          "random": {
+            "battles": 17658
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 42
+          },
+          "total_resources_earned": 436,
+          "week_resources_earned": 138
+        }
+      },
+      "512521752": {
+        "account_id": "512521752",
+        "account_name": "Timby",
+        "joined_clan_date": 1482051849,
+        "last_battle_time": 1483720076,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 19301
+          },
+          "random": {
+            "battles": 19301
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 80
+          },
+          "total_resources_earned": 614,
+          "week_resources_earned": 207
+        }
+      },
+      "512692430": {
+        "account_id": "512692430",
+        "account_name": "Slaimer1",
+        "joined_clan_date": 1472468759,
+        "last_battle_time": 1483289986,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 14735
+          },
+          "random": {
+            "battles": 14735
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 101
+          },
+          "total_resources_earned": 883,
+          "week_resources_earned": 0
+        }
+      },
+      "513031611": {
+        "account_id": "513031611",
+        "account_name": "Rajcenzi",
+        "joined_clan_date": 1472410999,
+        "last_battle_time": 1483719118,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 12641
+          },
+          "random": {
+            "battles": 12641
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 232
+          },
+          "total_resources_earned": 2402,
+          "week_resources_earned": 0
+        }
+      },
+      "513418594": {
+        "account_id": "513418594",
+        "account_name": "nijamo2",
+        "joined_clan_date": 1475429874,
+        "last_battle_time": 1483743540,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 16425
+          },
+          "random": {
+            "battles": 16422
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 67
+          },
+          "total_resources_earned": 662,
+          "week_resources_earned": 0
+        }
+      },
+      "513694917": {
+        "account_id": "513694917",
+        "account_name": "SWAT0013",
+        "joined_clan_date": 1475413401,
+        "last_battle_time": 1483581040,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 21240
+          },
+          "random": {
+            "battles": 21098
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 56
+          },
+          "total_resources_earned": 652,
+          "week_resources_earned": 0
+        }
+      },
+      "513701187": {
+        "account_id": "513701187",
+        "account_name": "Commando304990",
+        "joined_clan_date": 1467569507,
+        "last_battle_time": 1483731088,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 19661
+          },
+          "random": {
+            "battles": 19620
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 426
+          },
+          "total_resources_earned": 3795,
+          "week_resources_earned": 18
+        }
+      },
+      "514050789": {
+        "account_id": "514050789",
+        "account_name": "Pr0t3ctor",
+        "joined_clan_date": 1483377809,
+        "last_battle_time": 1483797401,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 16400
+          },
+          "random": {
+            "battles": 16400
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 26
+          },
+          "total_resources_earned": 194,
+          "week_resources_earned": 194
+        }
+      },
+      "514282104": {
+        "account_id": "514282104",
+        "account_name": "mazlik1234",
+        "joined_clan_date": 1481914468,
+        "last_battle_time": 1483793284,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 9654
+          },
+          "random": {
+            "battles": 9595
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 121
+          },
+          "total_resources_earned": 934,
+          "week_resources_earned": 0
+        }
+      },
+      "514286376": {
+        "account_id": "514286376",
+        "account_name": "slune72",
+        "joined_clan_date": 1463318264,
+        "last_battle_time": 1483647802,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 43005
+          },
+          "random": {
+            "battles": 42561
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 527
+          },
+          "total_resources_earned": 5132,
+          "week_resources_earned": 0
+        }
+      },
+      "514984734": {
+        "account_id": "514984734",
+        "account_name": "Ratchet__CZ",
+        "joined_clan_date": 1481994509,
+        "last_battle_time": 1483716610,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 16833
+          },
+          "random": {
+            "battles": 16833
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 59
+          },
+          "total_resources_earned": 331,
+          "week_resources_earned": 13
+        }
+      },
+      "516341555": {
+        "account_id": "516341555",
+        "account_name": "ramos3",
+        "joined_clan_date": 1481396502,
+        "last_battle_time": 1483741166,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 34215
+          },
+          "random": {
+            "battles": 33944
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 220
+          },
+          "total_resources_earned": 1865,
+          "week_resources_earned": 263
+        }
+      },
+      "516475155": {
+        "account_id": "516475155",
+        "account_name": "wildeer_2013",
+        "joined_clan_date": 1448381208,
+        "last_battle_time": 1483472645,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 11446
+          },
+          "random": {
+            "battles": 11446
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 1853
+          },
+          "total_resources_earned": 15191,
+          "week_resources_earned": 397
+        }
+      },
+      "516769127": {
+        "account_id": "516769127",
+        "account_name": "Paulusess",
+        "joined_clan_date": 1463938571,
+        "last_battle_time": 1483800896,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 25305
+          },
+          "random": {
+            "battles": 25291
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 894
+          },
+          "total_resources_earned": 7160,
+          "week_resources_earned": 170
+        }
+      },
+      "517238179": {
+        "account_id": "517238179",
+        "account_name": "dmakov",
+        "joined_clan_date": 1472186247,
+        "last_battle_time": 1483741864,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 15574
+          },
+          "random": {
+            "battles": 15551
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 153
+          },
+          "total_resources_earned": 1371,
+          "week_resources_earned": 0
+        }
+      },
+      "518096705": {
+        "account_id": "518096705",
+        "account_name": "Krejcak19",
+        "joined_clan_date": 1463424334,
+        "last_battle_time": 1483384536,
+        "role": "Reservist",
+        "statistics": {
+          "all": {
+            "battles": 13079
+          },
+          "random": {
+            "battles": 13045
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 148
+          },
+          "total_resources_earned": 1130,
+          "week_resources_earned": 0
+        }
+      },
+      "522121206": {
+        "account_id": "522121206",
+        "account_name": "joker1213",
+        "joined_clan_date": 1482061323,
+        "last_battle_time": 1483664622,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 24172
+          },
+          "random": {
+            "battles": 24164
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 39
+          },
+          "total_resources_earned": 449,
+          "week_resources_earned": 124
+        }
+      },
+      "522719236": {
+        "account_id": "522719236",
+        "account_name": "Butchi_905",
+        "joined_clan_date": 1483293887,
+        "last_battle_time": 1483471902,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 11101
+          },
+          "random": {
+            "battles": 11101
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 65
+          },
+          "total_resources_earned": 720,
+          "week_resources_earned": 720
+        }
+      },
+      "522818185": {
+        "account_id": "522818185",
+        "account_name": "berserkerdog",
+        "joined_clan_date": 1446558618,
+        "last_battle_time": 1483783769,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 9040
+          },
+          "random": {
+            "battles": 9040
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 591
+          },
+          "total_resources_earned": 4215,
+          "week_resources_earned": 0
+        }
+      },
+      "522993202": {
+        "account_id": "522993202",
+        "account_name": "ANarchyVictorious",
+        "joined_clan_date": 1414360617,
+        "last_battle_time": 1414362177,
+        "role": "Commander",
+        "statistics": {
+          "all": {
+            "battles": 1
+          },
+          "random": {
+            "battles": 1
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "523265097": {
+        "account_id": "523265097",
+        "account_name": "DRAKEN2001",
+        "joined_clan_date": 1462557312,
+        "last_battle_time": 1483012782,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 7892
+          },
+          "random": {
+            "battles": 7892
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 395
+          },
+          "total_resources_earned": 3282,
+          "week_resources_earned": 0
+        }
+      },
+      "523639108": {
+        "account_id": "523639108",
+        "account_name": "l1_m",
+        "joined_clan_date": 1479413731,
+        "last_battle_time": 1482845906,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 12290
+          },
+          "random": {
+            "battles": 12290
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 10
+          },
+          "total_resources_earned": 160,
+          "week_resources_earned": 0
+        }
+      },
+      "524043834": {
+        "account_id": "524043834",
+        "account_name": "Sunflow_Cz",
+        "joined_clan_date": 1461180260,
+        "last_battle_time": 1483737651,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 10163
+          },
+          "random": {
+            "battles": 10163
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 279
+          },
+          "total_resources_earned": 2683,
+          "week_resources_earned": 0
+        }
+      },
+      "524152459": {
+        "account_id": "524152459",
+        "account_name": "Tontou",
+        "joined_clan_date": 1472977902,
+        "last_battle_time": 1483781874,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 19643
+          },
+          "random": {
+            "battles": 19643
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 281
+          },
+          "total_resources_earned": 2379,
+          "week_resources_earned": 367
+        }
+      },
+      "525530918": {
+        "account_id": "525530918",
+        "account_name": "mildator2015",
+        "joined_clan_date": 1466619649,
+        "last_battle_time": 1483654722,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 13756
+          },
+          "random": {
+            "battles": 13756
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 194
+          },
+          "total_resources_earned": 1468,
+          "week_resources_earned": 21
+        }
+      },
+      "525568121": {
+        "account_id": "525568121",
+        "account_name": "zpocena_fusekle",
+        "joined_clan_date": 1460922465,
+        "last_battle_time": 1483794368,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 4480
+          },
+          "random": {
+            "battles": 4480
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 624
+          },
+          "total_resources_earned": 4198,
+          "week_resources_earned": 0
+        }
+      },
+      "525852667": {
+        "account_id": "525852667",
+        "account_name": "bikeass",
+        "joined_clan_date": 1483606911,
+        "last_battle_time": 1483756791,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 6384
+          },
+          "random": {
+            "battles": 6377
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 17
+          },
+          "total_resources_earned": 346,
+          "week_resources_earned": 346
+        }
+      },
+      "532030191": {
+        "account_id": "532030191",
+        "account_name": "BlackCert",
+        "joined_clan_date": 1471413490,
+        "last_battle_time": 1483689055,
+        "role": "Private",
+        "statistics": {
+          "all": {
+            "battles": 8952
+          },
+          "random": {
+            "battles": 8952
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 223
+          },
+          "total_resources_earned": 2280,
+          "week_resources_earned": 102
+        }
+      },
+      "541864456": {
+        "account_id": "541864456",
+        "account_name": "TheSuicider__",
+        "joined_clan_date": 1482775997,
+        "last_battle_time": 1483791497,
+        "role": "Reservist",
+        "statistics": {
+          "all": {
+            "battles": 672
+          },
+          "random": {
+            "battles": 672
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 230
+          },
+          "total_resources_earned": 1915,
+          "week_resources_earned": 195
+        }
+      }
+    },
+    "name": "Acta non Verba.",
+    "tag": "A-N-V"
+  },
+  "500075469": {
+    "members": {
+      "500323931": {
+        "account_id": "500323931",
+        "account_name": "Bora",
+        "joined_clan_date": 1465405479,
+        "last_battle_time": 1483638316,
+        "role": "Junior Officer",
+        "statistics": {
+          "all": {
+            "battles": 11520
+          },
+          "random": {
+            "battles": 11520
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "500395458": {
+        "account_id": "500395458",
+        "account_name": "bullitson",
+        "joined_clan_date": 1474562087,
+        "last_battle_time": 1483797963,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 22524
+          },
+          "random": {
+            "battles": 22283
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "501766322": {
+        "account_id": "501766322",
+        "account_name": "MilanMico",
+        "joined_clan_date": 1474626395,
+        "last_battle_time": 1483695073,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 40131
+          },
+          "random": {
+            "battles": 39564
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 6
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "502113830": {
+        "account_id": "502113830",
+        "account_name": "nevim1__FTS",
+        "joined_clan_date": 1481414506,
+        "last_battle_time": 1482954690,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 22352
+          },
+          "random": {
+            "battles": 22047
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "502984120": {
+        "account_id": "502984120",
+        "account_name": "panzerkiller71CZ",
+        "joined_clan_date": 1465150988,
+        "last_battle_time": 1483748295,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 15398
+          },
+          "random": {
+            "battles": 14833
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "503028811": {
+        "account_id": "503028811",
+        "account_name": "sandmancze",
+        "joined_clan_date": 1477584358,
+        "last_battle_time": 1483565994,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 13954
+          },
+          "random": {
+            "battles": 11924
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "503577584": {
+        "account_id": "503577584",
+        "account_name": "oglop",
+        "joined_clan_date": 1465192533,
+        "last_battle_time": 1483742135,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 18736
+          },
+          "random": {
+            "battles": 17147
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "504014784": {
+        "account_id": "504014784",
+        "account_name": "Ultim_inc",
+        "joined_clan_date": 1465232633,
+        "last_battle_time": 1483746016,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 33746
+          },
+          "random": {
+            "battles": 29308
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 13
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "504290181": {
+        "account_id": "504290181",
+        "account_name": "Miky7777",
+        "joined_clan_date": 1466007600,
+        "last_battle_time": 1483802969,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 28041
+          },
+          "random": {
+            "battles": 27874
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "504360521": {
+        "account_id": "504360521",
+        "account_name": "Deimos6",
+        "joined_clan_date": 1474562067,
+        "last_battle_time": 1483784793,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 26434
+          },
+          "random": {
+            "battles": 25617
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "506150441": {
+        "account_id": "506150441",
+        "account_name": "bingo_cz",
+        "joined_clan_date": 1465309184,
+        "last_battle_time": 1482946668,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 16373
+          },
+          "random": {
+            "battles": 15643
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "506203368": {
+        "account_id": "506203368",
+        "account_name": "Devilstorm_",
+        "joined_clan_date": 1465849055,
+        "last_battle_time": 1474144854,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 11904
+          },
+          "random": {
+            "battles": 11670
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "507178119": {
+        "account_id": "507178119",
+        "account_name": "Radilist_TCTD",
+        "joined_clan_date": 1465116611,
+        "last_battle_time": 1482665033,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 17234
+          },
+          "random": {
+            "battles": 16106
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "507475924": {
+        "account_id": "507475924",
+        "account_name": "Hanging_Hombre",
+        "joined_clan_date": 1482949335,
+        "last_battle_time": 1464811608,
+        "role": "Recruit",
+        "statistics": {
+          "all": {
+            "battles": 24813
+          },
+          "random": {
+            "battles": 24264
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "509540524": {
+        "account_id": "509540524",
+        "account_name": "JardaKrata",
+        "joined_clan_date": 1465117902,
+        "last_battle_time": 1476906482,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 18809
+          },
+          "random": {
+            "battles": 18755
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "510951954": {
+        "account_id": "510951954",
+        "account_name": "IwetaS",
+        "joined_clan_date": 1482579190,
+        "last_battle_time": 1483748142,
+        "role": "Executive Officer",
+        "statistics": {
+          "all": {
+            "battles": 5760
+          },
+          "random": {
+            "battles": 5760
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "511841262": {
+        "account_id": "511841262",
+        "account_name": "Dave_England",
+        "joined_clan_date": 1465335371,
+        "last_battle_time": 1464954804,
+        "role": "Recruitment Officer",
+        "statistics": {
+          "all": {
+            "battles": 13515
+          },
+          "random": {
+            "battles": 13111
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      },
+      "524584738": {
+        "account_id": "524584738",
+        "account_name": "_The_Chosen_One",
+        "joined_clan_date": 1465115168,
+        "last_battle_time": 1423903581,
+        "role": "Commander",
+        "statistics": {
+          "all": {
+            "battles": 73
+          },
+          "random": {
+            "battles": 73
+          }
+        },
+        "stronghold": {
+          "stronghold_skirmish": {
+            "battles": 0
+          },
+          "total_resources_earned": 0,
+          "week_resources_earned": 0
+        }
+      }
+    },
+    "name": "Acta non Verba - Veterans",
+    "tag": "ANV-V"
+  }
+}

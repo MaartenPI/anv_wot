@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Player List</h1>
+    <ul>
+{% for player in players %}
+    <li><a href="{% url 'wot:player_detail'  player.account_name %}">
+        {{ player }}
+        </a>
+    </li>
+
+{% endfor %}
+    </ul>
+{% endblock content %}
