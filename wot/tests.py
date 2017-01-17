@@ -1,3 +1,4 @@
+# Bonus points for adding a test
 from django.core.management import call_command
 from django.test import TestCase
 from .models import *
@@ -13,7 +14,7 @@ class PulldataCommandTest(TestCase):
         self.test_datafile = 'wot/testdata/old_data.json'
         self.created_datafile = 'wot/testdata/created_data.json'
 
-
+    # awww, why did you not give it a proper name?
     def test_asd(self):
         testfilename = 'wot/testdata/created_data.json'
         call_command(pulldata.Command(), json=testfilename)
