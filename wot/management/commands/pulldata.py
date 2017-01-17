@@ -6,6 +6,8 @@ import json
 import os
 
 class Command(BaseCommand):
+    # Store credentials in your settings-file
+    # Also be aware of abuse of keys in public github repos
     _appID = '3bab986f0bd5a381dfacf4ca9b639fa4'
     wgwot = wargaming.WoT(_appID, region='eu', language='en')
     wgwgn = wargaming.WGN(_appID, region='eu', language='en')
@@ -53,7 +55,8 @@ class Command(BaseCommand):
         # update the database with the records
         self.update_database(clans)
 
-
+    # I see a lot of happy path here. You are assuming your code works and never breaks.
+    # But what if it does?
     def update_database(self, clans):
         """
         Updates database entries
@@ -86,8 +89,10 @@ class Command(BaseCommand):
                 if created:
                     log = 'Created player {nick}, {aid}'.format(nick=player.account_name,
                                                                 aid=player.account_id)
+                    # Usually you would use a logger instead of relying on stdout
                     self.stdout(log)
 
+                # Naming your variables is important. This is hard to read
                 jcd = timezone.datetime.fromtimestamp(float(member_data['joined_clan_date']))
                 lbt = timezone.datetime.fromtimestamp(float(member_data['last_battle_time']))
 
@@ -110,7 +115,11 @@ class Command(BaseCommand):
 
 
     def merge_and_clean(self, *args, **options):
+        # try not to place vars in the middle of nowhere. it makes it hard to read
+        # what's going on
         data = {}
+        
+        # Remove commented code
         # keys
         # clans['clan_id']
         # members, players ['account_id']
@@ -136,6 +145,7 @@ class Command(BaseCommand):
 
         # 1.st request
 
+        # Consider placing the codeblocks in a separate functions instead of long blocks of code
         if options['folder']:
 
             folder = os.path.relpath(options['folder'])
@@ -171,6 +181,7 @@ class Command(BaseCommand):
 
             else:
                 players_info = self.clean_players(account_id=downloaded_member_ids,
+                                                  # consider adding this list in a variable for readability
                                                   fields=['last_battle_time',
                                                           'statistics.all.battles',
                                                           'statistics.random.battles',
@@ -213,7 +224,7 @@ class Command(BaseCommand):
         :param clan_id_list: list of clan_ids
         :return: dictionary containing the data
         """
-
+        # maybe explain what t and d mean
         default_clan = {'tag': 't',
                         'name': 'd',
                         'clan_id': 0}
@@ -250,4 +261,5 @@ class Command(BaseCommand):
 
     def remove_leavers(self, leavers):
         players = Player.objects.filter(account_id__in=leavers)
+        # huh?
         pass
