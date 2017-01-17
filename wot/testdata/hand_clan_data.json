@@ -1,0 +1,22 @@
+{
+  '500004323': {
+    'members': [
+      {
+        'account_id': 501435906,
+        'account_name': 'NoSmallCZ',
+        'joined_at': 1447589992,
+        'role': 'private',
+        'role_i18n': 'Private'
+      },
+      {
+        'account_id': 519375275,
+        'account_name': 'aiznem1',
+        'joined_at': 1459356339,
+        'role': 'private',
+        'role_i18n': 'Private'
+      }
+    ],
+    'name': 'Acta non Verba',
+    'tag': 'ANV'
+  }
+}

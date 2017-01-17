@@ -1,0 +1,590 @@
+{
+  "500012979": {
+    "stronghold_skirmish": {
+      "battles": 2223
+    },
+    "total_resources_earned": 32627,
+    "week_resources_earned": 125
+  },
+  "500169446": {
+    "stronghold_skirmish": {
+      "battles": 337
+    },
+    "total_resources_earned": 3873,
+    "week_resources_earned": 506
+  },
+  "500178167": {
+    "stronghold_skirmish": {
+      "battles": 6535
+    },
+    "total_resources_earned": 70956,
+    "week_resources_earned": 747
+  },
+  "500326164": {
+    "stronghold_skirmish": {
+      "battles": 1390
+    },
+    "total_resources_earned": 15170,
+    "week_resources_earned": 0
+  },
+  "500326378": {
+    "stronghold_skirmish": {
+      "battles": 94
+    },
+    "total_resources_earned": 1355,
+    "week_resources_earned": 0
+  },
+  "500357180": {
+    "stronghold_skirmish": {
+      "battles": 8616
+    },
+    "total_resources_earned": 122664,
+    "week_resources_earned": 1271
+  },
+  "500415344": {
+    "stronghold_skirmish": {
+      "battles": 2019
+    },
+    "total_resources_earned": 22517,
+    "week_resources_earned": 255
+  },
+  "500650118": {
+    "stronghold_skirmish": {
+      "battles": 4545
+    },
+    "total_resources_earned": 58023,
+    "week_resources_earned": 2011
+  },
+  "501141042": {
+    "stronghold_skirmish": {
+      "battles": 1134
+    },
+    "total_resources_earned": 13599,
+    "week_resources_earned": 0
+  },
+  "501380198": {
+    "stronghold_skirmish": {
+      "battles": 136
+    },
+    "total_resources_earned": 1581,
+    "week_resources_earned": 564
+  },
+  "501435906": {
+    "stronghold_skirmish": {
+      "battles": 1372
+    },
+    "total_resources_earned": 17224,
+    "week_resources_earned": 66
+  },
+  "501750265": {
+    "stronghold_skirmish": {
+      "battles": 1079
+    },
+    "total_resources_earned": 11691,
+    "week_resources_earned": 251
+  },
+  "502021925": {
+    "stronghold_skirmish": {
+      "battles": 2212
+    },
+    "total_resources_earned": 28816,
+    "week_resources_earned": 962
+  },
+  "502035855": {
+    "stronghold_skirmish": {
+      "battles": 1034
+    },
+    "total_resources_earned": 13388,
+    "week_resources_earned": 150
+  },
+  "502068357": {
+    "stronghold_skirmish": {
+      "battles": 10
+    },
+    "total_resources_earned": 119,
+    "week_resources_earned": 119
+  },
+  "502080152": {
+    "stronghold_skirmish": {
+      "battles": 2555
+    },
+    "total_resources_earned": 35176,
+    "week_resources_earned": 23
+  },
+  "502171515": {
+    "stronghold_skirmish": {
+      "battles": 4024
+    },
+    "total_resources_earned": 48924,
+    "week_resources_earned": 892
+  },
+  "502329694": {
+    "stronghold_skirmish": {
+      "battles": 3715
+    },
+    "total_resources_earned": 49918,
+    "week_resources_earned": 209
+  },
+  "502568831": {
+    "stronghold_skirmish": {
+      "battles": 4163
+    },
+    "total_resources_earned": 53258,
+    "week_resources_earned": 283
+  },
+  "502714869": {
+    "stronghold_skirmish": {
+      "battles": 1624
+    },
+    "total_resources_earned": 20810,
+    "week_resources_earned": 272
+  },
+  "502956086": {
+    "stronghold_skirmish": {
+      "battles": 117
+    },
+    "total_resources_earned": 1358,
+    "week_resources_earned": 0
+  },
+  "503461910": {
+    "stronghold_skirmish": {
+      "battles": 2830
+    },
+    "total_resources_earned": 32157,
+    "week_resources_earned": 103
+  },
+  "503836824": {
+    "stronghold_skirmish": {
+      "battles": 241
+    },
+    "total_resources_earned": 2793,
+    "week_resources_earned": 0
+  },
+  "504032989": {
+    "stronghold_skirmish": {
+      "battles": 28
+    },
+    "total_resources_earned": 453,
+    "week_resources_earned": 453
+  },
+  "504167647": {
+    "stronghold_skirmish": {
+      "battles": 536
+    },
+    "total_resources_earned": 6213,
+    "week_resources_earned": 195
+  },
+  "504180429": {
+    "stronghold_skirmish": {
+      "battles": 2562
+    },
+    "total_resources_earned": 31932,
+    "week_resources_earned": 116
+  },
+  "504302585": {
+    "stronghold_skirmish": {
+      "battles": 1675
+    },
+    "total_resources_earned": 25905,
+    "week_resources_earned": 762
+  },
+  "504375282": {
+    "stronghold_skirmish": {
+      "battles": 232
+    },
+    "total_resources_earned": 2730,
+    "week_resources_earned": 0
+  },
+  "504521992": {
+    "stronghold_skirmish": {
+      "battles": 2683
+    },
+    "total_resources_earned": 33883,
+    "week_resources_earned": 262
+  },
+  "504554694": {
+    "stronghold_skirmish": {
+      "battles": 485
+    },
+    "total_resources_earned": 6022,
+    "week_resources_earned": 0
+  },
+  "504560023": {
+    "stronghold_skirmish": {
+      "battles": 2481
+    },
+    "total_resources_earned": 28496,
+    "week_resources_earned": 0
+  },
+  "504762082": {
+    "stronghold_skirmish": {
+      "battles": 2085
+    },
+    "total_resources_earned": 25114,
+    "week_resources_earned": 814
+  },
+  "504781279": {
+    "stronghold_skirmish": {
+      "battles": 2545
+    },
+    "total_resources_earned": 35178,
+    "week_resources_earned": 0
+  },
+  "504916105": {
+    "stronghold_skirmish": {
+      "battles": 1033
+    },
+    "total_resources_earned": 13601,
+    "week_resources_earned": 0
+  },
+  "505132720": {
+    "stronghold_skirmish": {
+      "battles": 11480
+    },
+    "total_resources_earned": 148208,
+    "week_resources_earned": 1934
+  },
+  "505141259": {
+    "stronghold_skirmish": {
+      "battles": 4007
+    },
+    "total_resources_earned": 40683,
+    "week_resources_earned": 547
+  },
+  "505333297": {
+    "stronghold_skirmish": {
+      "battles": 599
+    },
+    "total_resources_earned": 7663,
+    "week_resources_earned": 0
+  },
+  "505502365": {
+    "stronghold_skirmish": {
+      "battles": 2213
+    },
+    "total_resources_earned": 32058,
+    "week_resources_earned": 208
+  },
+  "505612126": {
+    "stronghold_skirmish": {
+      "battles": 716
+    },
+    "total_resources_earned": 8979,
+    "week_resources_earned": 307
+  },
+  "505801983": {
+    "stronghold_skirmish": {
+      "battles": 718
+    },
+    "total_resources_earned": 8309,
+    "week_resources_earned": 0
+  },
+  "505981986": {
+    "stronghold_skirmish": {
+      "battles": 9636
+    },
+    "total_resources_earned": 120531,
+    "week_resources_earned": 2462
+  },
+  "505983968": {
+    "stronghold_skirmish": {
+      "battles": 1745
+    },
+    "total_resources_earned": 20959,
+    "week_resources_earned": 0
+  },
+  "506443209": {
+    "stronghold_skirmish": {
+      "battles": 110
+    },
+    "total_resources_earned": 1347,
+    "week_resources_earned": 0
+  },
+  "506470543": {
+    "stronghold_skirmish": {
+      "battles": 1812
+    },
+    "total_resources_earned": 26370,
+    "week_resources_earned": 0
+  },
+  "506598127": {
+    "stronghold_skirmish": {
+      "battles": 1201
+    },
+    "total_resources_earned": 10805,
+    "week_resources_earned": 153
+  },
+  "506626639": {
+    "stronghold_skirmish": {
+      "battles": 349
+    },
+    "total_resources_earned": 4183,
+    "week_resources_earned": 0
+  },
+  "506734168": {
+    "stronghold_skirmish": {
+      "battles": 1977
+    },
+    "total_resources_earned": 25715,
+    "week_resources_earned": 2350
+  },
+  "506756419": {
+    "stronghold_skirmish": {
+      "battles": 125
+    },
+    "total_resources_earned": 1240,
+    "week_resources_earned": 0
+  },
+  "506958539": {
+    "stronghold_skirmish": {
+      "battles": 57
+    },
+    "total_resources_earned": 653,
+    "week_resources_earned": 0
+  },
+  "507259256": {
+    "stronghold_skirmish": {
+      "battles": 3175
+    },
+    "total_resources_earned": 38047,
+    "week_resources_earned": 498
+  },
+  "507302458": {
+    "stronghold_skirmish": {
+      "battles": 1448
+    },
+    "total_resources_earned": 20397,
+    "week_resources_earned": 1198
+  },
+  "507335247": {
+    "stronghold_skirmish": {
+      "battles": 1679
+    },
+    "total_resources_earned": 19108,
+    "week_resources_earned": 263
+  },
+  "507356603": {
+    "stronghold_skirmish": {
+      "battles": 1503
+    },
+    "total_resources_earned": 16897,
+    "week_resources_earned": 2113
+  },
+  "507455714": {
+    "stronghold_skirmish": {
+      "battles": 2355
+    },
+    "total_resources_earned": 30527,
+    "week_resources_earned": 1046
+  },
+  "507457897": {
+    "stronghold_skirmish": {
+      "battles": 339
+    },
+    "total_resources_earned": 4542,
+    "week_resources_earned": 0
+  },
+  "507603245": {
+    "stronghold_skirmish": {
+      "battles": 11
+    },
+    "total_resources_earned": 268,
+    "week_resources_earned": 0
+  },
+  "507732621": {
+    "stronghold_skirmish": {
+      "battles": 1189
+    },
+    "total_resources_earned": 13234,
+    "week_resources_earned": 698
+  },
+  "508447632": {
+    "stronghold_skirmish": {
+      "battles": 212
+    },
+    "total_resources_earned": 2662,
+    "week_resources_earned": 36
+  },
+  "509225448": {
+    "stronghold_skirmish": {
+      "battles": 3937
+    },
+    "total_resources_earned": 44285,
+    "week_resources_earned": 1372
+  },
+  "509584230": {
+    "stronghold_skirmish": {
+      "battles": 887
+    },
+    "total_resources_earned": 12698,
+    "week_resources_earned": 0
+  },
+  "509597277": {
+    "stronghold_skirmish": {
+      "battles": 440
+    },
+    "total_resources_earned": 3822,
+    "week_resources_earned": 0
+  },
+  "509793235": {
+    "stronghold_skirmish": {
+      "battles": 944
+    },
+    "total_resources_earned": 11268,
+    "week_resources_earned": 622
+  },
+  "509841490": {
+    "stronghold_skirmish": {
+      "battles": 1758
+    },
+    "total_resources_earned": 22426,
+    "week_resources_earned": 49
+  },
+  "510110879": {
+    "stronghold_skirmish": {
+      "battles": 1365
+    },
+    "total_resources_earned": 19034,
+    "week_resources_earned": 0
+  },
+  "510175093": {
+    "stronghold_skirmish": {
+      "battles": 919
+    },
+    "total_resources_earned": 7891,
+    "week_resources_earned": 442
+  },
+  "511173662": {
+    "stronghold_skirmish": {
+      "battles": 3563
+    },
+    "total_resources_earned": 42823,
+    "week_resources_earned": 118
+  },
+  "513015600": {
+    "stronghold_skirmish": {
+      "battles": 128
+    },
+    "total_resources_earned": 1154,
+    "week_resources_earned": 688
+  },
+  "513456431": {
+    "stronghold_skirmish": {
+      "battles": 203
+    },
+    "total_resources_earned": 2545,
+    "week_resources_earned": 542
+  },
+  "513997224": {
+    "stronghold_skirmish": {
+      "battles": 2006
+    },
+    "total_resources_earned": 24031,
+    "week_resources_earned": 0
+  },
+  "514181284": {
+    "stronghold_skirmish": {
+      "battles": 72
+    },
+    "total_resources_earned": 1003,
+    "week_resources_earned": 628
+  },
+  "514654815": {
+    "stronghold_skirmish": {
+      "battles": 1187
+    },
+    "total_resources_earned": 13211,
+    "week_resources_earned": 0
+  },
+  "516135913": {
+    "stronghold_skirmish": {
+      "battles": 2435
+    },
+    "total_resources_earned": 32513,
+    "week_resources_earned": 1173
+  },
+  "517721061": {
+    "stronghold_skirmish": {
+      "battles": 126
+    },
+    "total_resources_earned": 1444,
+    "week_resources_earned": 1028
+  },
+  "518365387": {
+    "stronghold_skirmish": {
+      "battles": 4968
+    },
+    "total_resources_earned": 65931,
+    "week_resources_earned": 0
+  },
+  "518488340": {
+    "stronghold_skirmish": {
+      "battles": 323
+    },
+    "total_resources_earned": 3865,
+    "week_resources_earned": 1266
+  },
+  "519375275": {
+    "stronghold_skirmish": {
+      "battles": 724
+    },
+    "total_resources_earned": 8442,
+    "week_resources_earned": 0
+  },
+  "520638422": {
+    "stronghold_skirmish": {
+      "battles": 1130
+    },
+    "total_resources_earned": 15152,
+    "week_resources_earned": 1178
+  },
+  "521006098": {
+    "stronghold_skirmish": {
+      "battles": 2496
+    },
+    "total_resources_earned": 32833,
+    "week_resources_earned": 626
+  },
+  "522043139": {
+    "stronghold_skirmish": {
+      "battles": 672
+    },
+    "total_resources_earned": 7000,
+    "week_resources_earned": 0
+  },
+  "522527402": {
+    "stronghold_skirmish": {
+      "battles": 998
+    },
+    "total_resources_earned": 13021,
+    "week_resources_earned": 117
+  },
+  "522611446": {
+    "stronghold_skirmish": {
+      "battles": 247
+    },
+    "total_resources_earned": 3073,
+    "week_resources_earned": 0
+  },
+  "525096133": {
+    "stronghold_skirmish": {
+      "battles": 37
+    },
+    "total_resources_earned": 224,
+    "week_resources_earned": 224
+  },
+  "525821673": {
+    "stronghold_skirmish": {
+      "battles": 2483
+    },
+    "total_resources_earned": 25406,
+    "week_resources_earned": 947
+  },
+  "532401249": {
+    "stronghold_skirmish": {
+      "battles": 79
+    },
+    "total_resources_earned": 992,
+    "week_resources_earned": 639
+  }
+}

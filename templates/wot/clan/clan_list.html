@@ -1,9 +1,26 @@
 {% extends 'base.html' %}
 {% block content %}
-<h1>Player List</h1>
+<h1>Clan List</h1>
     <ul>
-{% for clan in clans %}
-    <li>{{ clan }}</li>
+{% for clan in clans_members %}
+        <li><a href="{% url 'wot:clan_detail'  clan.tag %}">
+        {{ clan }}
+        </a>
+    </li>
 {% endfor %}
     </ul>
+    {% for clan, members in clans_members.items %}
+        <div class="clan">
+            <a href="{% url 'wot:clan_detail'  clan.tag %}">
+            {{ clan }}
+            </a>
+            <div class="player_roster">
+            {% for member in members %}
+                <p>
+                {{ member.account_name }}
+                </p>
+            {% endfor %}
+            </div>
+        </div>
+{% endfor %}
 {% endblock content %}

@@ -1,8 +1,9 @@
 from django.core.management.base import BaseCommand, CommandError
-from wot.models import *
+from django.utils import timezone
+from wot.models import PlayerData, Clan, Player
 import wargaming
 import json
-
+import os
 
 class Command(BaseCommand):
     _appID = '3bab986f0bd5a381dfacf4ca9b639fa4'
@@ -12,35 +13,85 @@ class Command(BaseCommand):
     pomlcky_clanid = 500054759
     anv_v_clanid = 500075469
 
-    def handle(self, *args, **options):
-        self.stdout.write("command!")
+    def add_arguments(self, parser):
 
-        # clans = self.download_and_clean()
-        with open('data.json','r') as inf:
-          clans = json.load(inf,parse_int=str, parse_float=str)
+        # use local files
+        parser.add_argument(
+            '--folder',
+            default='wot/testdata',
+            nargs='?',
+            help='Use files from local directory instead downloading data from WG API',
+        )
+        # json output
+        parser.add_argument(
+            '--json',
+            default='wot_clean_data.json',
+            # nargs=1,
+            help='Save output to json',
+        )
+
+    def handle(self, *args, **options):
+        """
+        Main command function
+        :param args: arguments
+        :param options:  optional arguments
+        """
+
+        # clean all data and store it in dictionary
+        clans = self.merge_and_clean(*args, **options)
+
+        # dump the the result to json and quit
+        if options['json']:
+            filename = os.path.relpath(options['json'])
+
+            with open(filename, 'w+') as outf:
+                json.dump(clans, outf, indent=2, sort_keys=True, separators=(',', ': '))
+            rtn = "Saved to file {fn}".format(fn=filename)
+            self.stdout.write(rtn)
+            return
+
+        # update the database with the records
+        self.update_database(clans)
+
+
+    def update_database(self, clans):
+        """
+        Updates database entries
+        :param clans: output from merge_and_clean
+        """
 
         for clan_id, clan_data in clans.items():
 
             # create clans
-            clan, result = Clan.objects.update_or_create(clan_id=clan_id,
-                                                         name=clan_data['name'],
-                                                         tag=clan_data['tag'])
+            clan, created = Clan.objects.update_or_create(clan_id=clan_id,
+                                                          name=clan_data['name'],
+                                                          tag=clan_data['tag'])
+            if created:
+                log = 'Created clan {tag}, {cid}'.format(tag=clan.tag, cid=clan.clan_id)
+                self.stdout(log)
+
+            downloaded_member_ids = set(member['account_id'] for member in clan_data['members'])
+            stored_member_ids = set(clan.get_members().values_list('account_id', flat=True))
+
+            newcomers = downloaded_member_ids - stored_member_ids
+            left_clan = stored_member_ids - downloaded_member_ids
+
+            self.remove_leavers(left_clan)
 
             # create / update player data
             for member_id, member_data in clan_data['members'].items():
-                player, result = Player.objects.update_or_create(account_id=member_data['account_id'],
-                                                                 account_name=member_data['account_name'],
-                                                                 clan=clan)
-
-                # print(type(member_data['stronghold']['week_resources_earned']),
-                #       member_data['stronghold']['week_resources_earned'])
-                # input()
-                # print(type(member_data['joined_clan_date']), member_data['joined_clan_date'])
+                player, created = Player.objects.update_or_create(account_id=member_data['account_id'],
+                                                                  account_name=member_data['account_name'],
+                                                                  clan=clan)
+                if created:
+                    log = 'Created player {nick}, {aid}'.format(nick=player.account_name,
+                                                                aid=player.account_id)
+                    self.stdout(log)
 
                 jcd = timezone.datetime.fromtimestamp(float(member_data['joined_clan_date']))
                 lbt = timezone.datetime.fromtimestamp(float(member_data['last_battle_time']))
 
-                player_data, result = PlayerData.objects. \
+                player_data, created = PlayerData.objects. \
                     update_or_create(player=player,
                                      joined_clan_date=jcd,
                                      last_battle_time=lbt,
@@ -52,8 +103,13 @@ class Command(BaseCommand):
                                      total_resources_earned=member_data['stronghold']['total_resources_earned'],
                                      # week_resources_earned=wk,
                                      )
+                if created:
+                    log = 'Created player data {nick}, {date}'.format(nick=player.account_name,
+                                                                      date=player_data.created)
+                    self.stdout(log)
 
-    def download_and_clean(self):
+
+    def merge_and_clean(self, *args, **options):
         data = {}
         # keys
         # clans['clan_id']
@@ -79,33 +135,57 @@ class Command(BaseCommand):
         #  }
 
         # 1.st request
-        clans = self.wgwgn.clans.info(clan_id=[self.anv_v_clanid,
-                                               self.anv_clanid,
-                                               self.pomlcky_clanid],
-                                      fields=['tag', 'name', 'members'])
+
+        if options['folder']:
+
+            folder = os.path.relpath(options['folder'])
+
+            with open(os.path.join(folder,'wg_clans_response.json'), 'r') as icf:
+                clans = json.load(icf, parse_constant=str, parse_int=str, parse_float=str)
+
+
+        else:
+            # response containing new members
+            clans = self.clean_clans([self.anv_v_clanid, self.anv_clanid, self.pomlcky_clanid],
+                                     fields=['tag', 'name', 'members'])
 
         for clan_id, clan_data in clans.items():
             data[clan_id] = {'members': {},
                              'tag': clan_data['tag'],
                              'name': clan_data['name']}
-            member_ids = [member['account_id'] for member in clan_data['members']]
-            # 2.nd request
-            players_info = self.wgwot.account.info(account_id=member_ids,
-                                                   fields=['last_battle_time',
-                                                           'statistics.all.battles',
-                                                           'statistics.random.battles',
-                                                           ],
-                                                   extra=['statistics.random']).data
 
-            # 3.rd request
-            player_stronghold = self.wgwot.stronghold.accountstats(account_id=member_ids,
-                                                                   fields=['stronghold_skirmish.battles',
-                                                                           'total_resources_earned',
-                                                                           'week_resources_earned',
-                                                                           ])
+            downloaded_member_ids = [member['account_id'] for member in clan_data['members']]
+
+            # 2.nd request n times clan
+
+            if options['folder']:
+                pl_filename = 'wg_{tag}_players_response.json'.format(tag=clan_data['tag'])
+                with open(os.path.join(folder, pl_filename), 'r') as pif:
+                    players_info = json.load(pif, parse_constant=str, parse_int=str, parse_float=str)
+
+                str_filename = 'wg_{tag}_stronghold_response.json'.format(tag=clan_data['tag'])
+
+                with open(os.path.join(folder, str_filename), 'r') as sif:
+                    player_stronghold = json.load(sif, parse_constant=str, parse_int=str, parse_float=str)
+
+
+            else:
+                players_info = self.clean_players(account_id=downloaded_member_ids,
+                                                  fields=['last_battle_time',
+                                                          'statistics.all.battles',
+                                                          'statistics.random.battles',
+                                                          ],
+                                                  extra=['statistics.random'])
+
+                # 3.rd request n times clan
+                player_stronghold = self.clean_player_stronghold(account_id=downloaded_member_ids,
+                                                                 fields=['stronghold_skirmish.battles',
+                                                                         'total_resources_earned',
+                                                                         'week_resources_earned',
+                                                                         ])
 
             # iterate through members and merge data from clan, stronghold and info
-            for idx, member_id in enumerate(member_ids):
+            for idx, member_id in enumerate(downloaded_member_ids):
                 account_id = str(member_id)
 
                 if player_stronghold[account_id]['stronghold_skirmish'] is None:
@@ -125,9 +205,49 @@ class Command(BaseCommand):
 
                 data[clan_id]['members'][account_id] = player
 
-        self.stdout.write('writing json')
-        with open('data.json', 'w+') as outf:
-            json.dump(data, outf, indent=2, sort_keys=True, separators=(',', ': '))
+        return data
 
-        with open('data.json', 'r') as inf:
-            return json.load(inf, parse_float=str, parse_int=str)
+    def clean_clans(self, clan_id_list, fields):
+        """
+        Download clans, tags, names, members+details
+        :param clan_id_list: list of clan_ids
+        :return: dictionary containing the data
+        """
+
+        default_clan = {'tag': 't',
+                        'name': 'd',
+                        'clan_id': 0}
+
+        clans = self.wgwgn.clans.info(clan_id=clan_id_list,
+                                      fields=fields)
+
+        return clans if isinstance(clans, dict) else dict(clans)
+
+    def clean_players(self, account_id, fields, extra):
+        """
+        Return players data in dict
+        :param account_id: list of account_id
+        :return: dictionary containing the data
+        """
+        players_info = self.wgwot.account.info(account_id=account_id,
+                                               fields=fields,
+                                               extra=extra).data
+
+        return players_info if isinstance(players_info, dict) else dict(players_info)
+
+    def clean_player_stronghold(self, account_id, fields):
+        """
+        Return player stronghold data
+        :param account_id: :param account_id: list of account_id
+        :param fields: fields from wg api
+        :return: dictionary containing the data
+        """
+        player_stronghold = self.wgwot.stronghold.accountstats(account_id=account_id,
+                                                               fields=fields)
+
+        return player_stronghold if isinstance(player_stronghold, dict) else dict(player_stronghold)
+
+
+    def remove_leavers(self, leavers):
+        players = Player.objects.filter(account_id__in=leavers)
+        pass

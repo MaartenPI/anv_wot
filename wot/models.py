@@ -56,11 +56,17 @@ class Player(models.Model):
                                                null=True)
     account_name = models.CharField(max_length=250)
 
+
     clan = models.ForeignKey('Clan',
                                on_delete=models.CASCADE,
                                blank=True,
                                null=True,
                              related_name='members')
+
+    previous_clan_id = models.IntegerField(verbose_name='Previous Clan',
+                                           blank=True,
+                                           null=True)
+
 
 
     def __str__(self):
@@ -70,22 +76,21 @@ class Player(models.Model):
         return reverse('wot:player_detail',
                        args=[self.account_name])
 
+    class Meta:
+        ordering = ['account_name']
+
 class PlayerData(models.Model):
     """
     Players data daily tracked
     """
     created = models.DateTimeField(auto_now_add=True)
-    # updated = models.DateTimeField(auto_now=True,
-    #                                editable=False,
-    #                                blank=True
-    #                                )
+
     player = models.ForeignKey('Player',
                                on_delete=models.CASCADE,
-                               related_name='data',
+                               related_name='player',
                                null=True,
                                blank=True
                                )
-
 
     joined_clan_date = models.DateTimeField(blank=True,
                                              null=True)
@@ -117,3 +122,7 @@ class PlayerData(models.Model):
     def __str__(self):
         return '{player}, {cr}'.format(player=self.player.account_name,
                                        cr=self.created)
+
+    class Meta:
+        get_latest_by ='created'
+        ordering = ['-created']
